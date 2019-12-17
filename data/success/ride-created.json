@@ -1,0 +1,4502 @@
+[
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Thornton Street 330, Harrodsburg, USA",
+        "dropoff": "Remsen Avenue 973, Zarephath, USA",
+        "price": 83.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lois Avenue 942, Fivepointville, USA",
+        "dropoff": "Lester Court 911, Grill, USA",
+        "price": 99.93
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Orient Avenue 13, Sutton, USA",
+        "dropoff": "Elliott Place 806, Orason, USA",
+        "price": 64.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Mermaid Avenue 621, Westmoreland, USA",
+        "dropoff": "Franklin Street 756, Hachita, USA",
+        "price": 91.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Eaton Court 273, Rivera, USA",
+        "dropoff": "Conselyea Street 417, Byrnedale, USA",
+        "price": 66.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Humboldt Street 341, Malott, USA",
+        "dropoff": "Noble Street 613, Barrelville, USA",
+        "price": 23.42
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bayview Avenue 365, Sabillasville, USA",
+        "dropoff": "Lorimer Street 777, Tonopah, USA",
+        "price": 76.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gain Court 884, Jacumba, USA",
+        "dropoff": "Mill Road 828, Goochland, USA",
+        "price": 19.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Aurelia Court 201, Suitland, USA",
+        "dropoff": "Bragg Street 702, Strykersville, USA",
+        "price": 92.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sackett Street 310, Brazos, USA",
+        "dropoff": "Meserole Avenue 266, Blanford, USA",
+        "price": 41.78
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cornelia Street 981, Dellview, USA",
+        "dropoff": "Forrest Street 378, Hatteras, USA",
+        "price": 50.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dewey Place 23, Allensworth, USA",
+        "dropoff": "Doscher Street 494, Bodega, USA",
+        "price": 31.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Varick Street 199, Blende, USA",
+        "dropoff": "Gelston Avenue 705, Dunbar, USA",
+        "price": 94.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Voorhies Avenue 533, Warsaw, USA",
+        "dropoff": "Clarendon Road 36, Grantville, USA",
+        "price": 62.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hopkins Street 69, Riceville, USA",
+        "dropoff": "Wythe Avenue 110, Catherine, USA",
+        "price": 23.59
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kent Street 242, Lynn, USA",
+        "dropoff": "Claver Place 958, Gorham, USA",
+        "price": 31.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hoyts Lane 833, Bridgetown, USA",
+        "dropoff": "Hazel Court 81, Newcastle, USA",
+        "price": 34.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ingraham Street 848, Mahtowa, USA",
+        "dropoff": "Apollo Street 511, Nogal, USA",
+        "price": 66.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bushwick Court 594, Loomis, USA",
+        "dropoff": "Oxford Walk 656, Drytown, USA",
+        "price": 59.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Neptune Avenue 475, Edgewater, USA",
+        "dropoff": "Fenimore Street 145, Canoochee, USA",
+        "price": 82.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Matthews Place 33, Gasquet, USA",
+        "dropoff": "Hall Street 931, Kimmell, USA",
+        "price": 85.03
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gerry Street 450, Villarreal, USA",
+        "dropoff": "Ebony Court 679, Turpin, USA",
+        "price": 69.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Adler Place 617, Ventress, USA",
+        "dropoff": "Guernsey Street 987, Bendon, USA",
+        "price": 95.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gold Street 665, Springville, USA",
+        "dropoff": "Norwood Avenue 275, Bordelonville, USA",
+        "price": 57.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Autumn Avenue 473, Temperanceville, USA",
+        "dropoff": "Scott Avenue 984, Libertytown, USA",
+        "price": 47.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Oxford Street 248, Groveville, USA",
+        "dropoff": "Nassau Street 54, Jackpot, USA",
+        "price": 41.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Will Place 403, Gwynn, USA",
+        "dropoff": "Aster Court 634, Concho, USA",
+        "price": 97.92
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Desmond Court 669, Irwin, USA",
+        "dropoff": "Visitation Place 546, Topanga, USA",
+        "price": 77.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Decatur Street 63, Waterview, USA",
+        "dropoff": "Oceanic Avenue 316, Skyland, USA",
+        "price": 15.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Oceanview Avenue 527, Esmont, USA",
+        "dropoff": "Morton Street 512, Rockhill, USA",
+        "price": 79.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Main Street 984, Hillsboro, USA",
+        "dropoff": "Gunnison Court 85, Smock, USA",
+        "price": 68.82
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Navy Walk 202, Conestoga, USA",
+        "dropoff": "Bartlett Street 607, Freetown, USA",
+        "price": 49.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Stryker Court 916, Floriston, USA",
+        "dropoff": "McDonald Avenue 502, Drummond, USA",
+        "price": 68.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Fleet Walk 64, Healy, USA",
+        "dropoff": "Virginia Place 980, Brandywine, USA",
+        "price": 61.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hull Street 29, Toftrees, USA",
+        "dropoff": "Kimball Street 890, Franklin, USA",
+        "price": 82.27
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Surf Avenue 551, Oceola, USA",
+        "dropoff": "Reed Street 450, Knowlton, USA",
+        "price": 67.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hill Street 285, Eden, USA",
+        "dropoff": "Sharon Street 643, Finderne, USA",
+        "price": 22.99
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Seigel Street 558, Gadsden, USA",
+        "dropoff": "Jerome Avenue 518, Cloverdale, USA",
+        "price": 61.04
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Schenck Street 690, Alamo, USA",
+        "dropoff": "Dare Court 355, Volta, USA",
+        "price": 30.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Franklin Avenue 514, Breinigsville, USA",
+        "dropoff": "Moffat Street 673, Gambrills, USA",
+        "price": 99.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Coleridge Street 776, Loyalhanna, USA",
+        "dropoff": "Karweg Place 843, Fontanelle, USA",
+        "price": 50.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kings Hwy 329, Smeltertown, USA",
+        "dropoff": "Pineapple Street 249, Machias, USA",
+        "price": 89.21
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Rewe Street 451, Kiskimere, USA",
+        "dropoff": "Commerce Street 113, Golconda, USA",
+        "price": 85.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ridgewood Avenue 813, Richmond, USA",
+        "dropoff": "Martense Street 556, Bangor, USA",
+        "price": 39.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Story Street 429, Haring, USA",
+        "dropoff": "Mill Street 30, Callaghan, USA",
+        "price": 77.9
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Quentin Road 175, Torboy, USA",
+        "dropoff": "Monitor Street 697, Bluetown, USA",
+        "price": 59.34
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Columbia Street 328, Roosevelt, USA",
+        "dropoff": "Wortman Avenue 446, Bynum, USA",
+        "price": 48.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hart Street 953, Kilbourne, USA",
+        "dropoff": "Highland Boulevard 490, Wanship, USA",
+        "price": 27.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "John Street 796, Greenock, USA",
+        "dropoff": "Colby Court 784, Emison, USA",
+        "price": 20.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Albee Square 934, Fairmount, USA",
+        "dropoff": "Highlawn Avenue 159, Retsof, USA",
+        "price": 87.43
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lincoln Terrace 792, Robbins, USA",
+        "dropoff": "Fleet Place 819, Barstow, USA",
+        "price": 58.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ditmas Avenue 283, Elliott, USA",
+        "dropoff": "Murdock Court 477, Newry, USA",
+        "price": 57.92
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bank Street 501, Grimsley, USA",
+        "dropoff": "Danforth Street 131, Geyserville, USA",
+        "price": 46.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Foster Avenue 145, Macdona, USA",
+        "dropoff": "Sutter Avenue 931, Corinne, USA",
+        "price": 87.98
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "National Drive 185, Ada, USA",
+        "dropoff": "Olive Street 380, Waverly, USA",
+        "price": 96.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Woods Place 642, Woodburn, USA",
+        "dropoff": "Crawford Avenue 515, Bend, USA",
+        "price": 62.72
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Commercial Street 720, Roberts, USA",
+        "dropoff": "Trucklemans Lane 554, Nord, USA",
+        "price": 74.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Summit Street 585, Dotsero, USA",
+        "dropoff": "Lincoln Avenue 652, Hinsdale, USA",
+        "price": 18.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bridgewater Street 468, Troy, USA",
+        "dropoff": "Beacon Court 617, Kipp, USA",
+        "price": 16.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Halsey Street 777, Lindisfarne, USA",
+        "dropoff": "Legion Street 382, Edenburg, USA",
+        "price": 87.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Havens Place 487, Greer, USA",
+        "dropoff": "Pitkin Avenue 744, Edgar, USA",
+        "price": 79.73
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Aberdeen Street 968, Welch, USA",
+        "dropoff": "Coles Street 217, Kerby, USA",
+        "price": 91.74
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gunther Place 170, Onton, USA",
+        "dropoff": "Regent Place 514, Rowe, USA",
+        "price": 66.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Keap Street 180, Witmer, USA",
+        "dropoff": "Abbey Court 588, Convent, USA",
+        "price": 63.42
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Anthony Street 710, Shawmut, USA",
+        "dropoff": "Nova Court 441, Farmers, USA",
+        "price": 65.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Pilling Street 453, Sunnyside, USA",
+        "dropoff": "Boulevard Court 324, Bancroft, USA",
+        "price": 35.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Furman Avenue 864, Snowville, USA",
+        "dropoff": "Dearborn Court 941, Orovada, USA",
+        "price": 72.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Henry Street 258, Graball, USA",
+        "dropoff": "McClancy Place 272, Castleton, USA",
+        "price": 75.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Grove Street 776, Iola, USA",
+        "dropoff": "School Lane 633, Gardiner, USA",
+        "price": 55.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dean Street 86, Sidman, USA",
+        "dropoff": "Amboy Street 47, Chapin, USA",
+        "price": 71.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hendrickson Street 480, Chicopee, USA",
+        "dropoff": "Veterans Avenue 445, Teasdale, USA",
+        "price": 64.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Wakeman Place 306, Axis, USA",
+        "dropoff": "Opal Court 427, Vienna, USA",
+        "price": 16.82
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Schenck Court 350, Wikieup, USA",
+        "dropoff": "Portland Avenue 56, Kingstowne, USA",
+        "price": 35.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Euclid Avenue 758, Osage, USA",
+        "dropoff": "Meadow Street 93, Limestone, USA",
+        "price": 21.42
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Beaumont Street 644, Bergoo, USA",
+        "dropoff": "Gaylord Drive 313, Deltaville, USA",
+        "price": 92.45
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Berriman Street 277, Bath, USA",
+        "dropoff": "Nichols Avenue 77, Chesapeake, USA",
+        "price": 84.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Montgomery Street 97, Whitestone, USA",
+        "dropoff": "Prescott Place 706, Templeton, USA",
+        "price": 86.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Middleton Street 418, Kenvil, USA",
+        "dropoff": "Provost Street 783, Valmy, USA",
+        "price": 73.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Rockwell Place 279, Chumuckla, USA",
+        "dropoff": "Underhill Avenue 545, Nile, USA",
+        "price": 83.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Wyckoff Street 844, Reinerton, USA",
+        "dropoff": "Roebling Street 875, Iberia, USA",
+        "price": 51.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Montrose Avenue 294, Jennings, USA",
+        "dropoff": "Amherst Street 333, Saticoy, USA",
+        "price": 95.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Joralemon Street 980, Reno, USA",
+        "dropoff": "Rogers Avenue 19, Muir, USA",
+        "price": 60.71
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Anna Court 136, Cashtown, USA",
+        "dropoff": "Tehama Street 96, Detroit, USA",
+        "price": 12.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Barwell Terrace 756, Interlochen, USA",
+        "dropoff": "Broome Street 935, Summertown, USA",
+        "price": 80.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kansas Place 5, Draper, USA",
+        "dropoff": "Dorset Street 887, Watchtower, USA",
+        "price": 98.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Louis Place 149, Cleary, USA",
+        "dropoff": "Amity Street 493, Rose, USA",
+        "price": 30.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Robert Street 226, Walker, USA",
+        "dropoff": "Clarkson Avenue 750, Kieler, USA",
+        "price": 69.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Whitty Lane 256, Gilgo, USA",
+        "dropoff": "Hunts Lane 871, Riner, USA",
+        "price": 34.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Caton Place 310, Broadlands, USA",
+        "dropoff": "Livingston Street 440, Spokane, USA",
+        "price": 39.03
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sunnyside Avenue 968, Baker, USA",
+        "dropoff": "Judge Street 99, Itmann, USA",
+        "price": 90.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Miller Place 903, Shindler, USA",
+        "dropoff": "Jefferson Avenue 381, Elwood, USA",
+        "price": 44.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ridgecrest Terrace 490, Westboro, USA",
+        "dropoff": "Prospect Avenue 342, Albany, USA",
+        "price": 59.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Waldorf Court 708, Calpine, USA",
+        "dropoff": "Ocean Court 932, Allison, USA",
+        "price": 73.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sullivan Place 560, Lisco, USA",
+        "dropoff": "Banner Avenue 879, Ruckersville, USA",
+        "price": 30.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hamilton Walk 917, Brutus, USA",
+        "dropoff": "Prospect Street 889, Darlington, USA",
+        "price": 48.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Canal Avenue 344, Fulford, USA",
+        "dropoff": "Dumont Avenue 105, Statenville, USA",
+        "price": 71.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hendrix Street 552, Hayden, USA",
+        "dropoff": "Belmont Avenue 688, Albrightsville, USA",
+        "price": 53.31
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Harman Street 229, Bowmansville, USA",
+        "dropoff": "Gotham Avenue 336, Tecolotito, USA",
+        "price": 87.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Branton Street 415, Camino, USA",
+        "dropoff": "Williams Place 310, Grazierville, USA",
+        "price": 36.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sands Street 620, Century, USA",
+        "dropoff": "Crooke Avenue 369, Ladera, USA",
+        "price": 81.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Seabring Street 970, Tampico, USA",
+        "dropoff": "Drew Street 802, Denio, USA",
+        "price": 84.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Agate Court 486, Barclay, USA",
+        "dropoff": "Minna Street 610, Westerville, USA",
+        "price": 14.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dinsmore Place 276, Clay, USA",
+        "dropoff": "Dunham Place 91, Dennard, USA",
+        "price": 35.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Battery Avenue 853, Lowgap, USA",
+        "dropoff": "Dahl Court 868, Diaperville, USA",
+        "price": 12.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Newkirk Placez 812, Leeper, USA",
+        "dropoff": "Chester Court 981, Orin, USA",
+        "price": 38.73
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Blake Avenue 392, Grandview, USA",
+        "dropoff": "Georgia Avenue 799, Enoree, USA",
+        "price": 92.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gatling Place 898, Tuttle, USA",
+        "dropoff": "Horace Court 1000, Weogufka, USA",
+        "price": 23.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Florence Avenue 991, Herlong, USA",
+        "dropoff": "Linden Street 628, Sharon, USA",
+        "price": 13.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Jackson Street 245, Wolcott, USA",
+        "dropoff": "Village Court 392, Thermal, USA",
+        "price": 88.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gerald Court 225, Coleville, USA",
+        "dropoff": "Hubbard Place 606, Motley, USA",
+        "price": 71.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cyrus Avenue 496, Norris, USA",
+        "dropoff": "Ovington Avenue 353, Harviell, USA",
+        "price": 79.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Calyer Street 593, Mulino, USA",
+        "dropoff": "Chase Court 159, Wiscon, USA",
+        "price": 56.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Pine Street 209, Chemung, USA",
+        "dropoff": "Myrtle Avenue 886, Beyerville, USA",
+        "price": 41.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lyme Avenue 853, Urie, USA",
+        "dropoff": "Vandam Street 500, Monument, USA",
+        "price": 33.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cypress Avenue 711, Wells, USA",
+        "dropoff": "Rose Street 836, Wadsworth, USA",
+        "price": 15.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ash Street 192, Emerald, USA",
+        "dropoff": "Kensington Street 460, Kylertown, USA",
+        "price": 20.15
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Polar Street 392, Guilford, USA",
+        "dropoff": "Forest Place 206, Bawcomville, USA",
+        "price": 71.74
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Truxton Street 798, Lutsen, USA",
+        "dropoff": "Pershing Loop 383, Rutherford, USA",
+        "price": 71.71
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Colin Place 920, Jenkinsville, USA",
+        "dropoff": "Tennis Court 780, Ballico, USA",
+        "price": 36.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cedar Street 208, Nicut, USA",
+        "dropoff": "Elm Place 931, Hollymead, USA",
+        "price": 57.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lott Street 756, Maxville, USA",
+        "dropoff": "Atlantic Avenue 59, Beechmont, USA",
+        "price": 84.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Rutland Road 166, Frizzleburg, USA",
+        "dropoff": "Meserole Street 420, Grapeview, USA",
+        "price": 45.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Maple Avenue 334, Goldfield, USA",
+        "dropoff": "Vanderveer Street 644, Chalfant, USA",
+        "price": 95.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bogart Street 866, Ruffin, USA",
+        "dropoff": "Grattan Street 939, Vaughn, USA",
+        "price": 68.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Emerson Place 607, Rockbridge, USA",
+        "dropoff": "Quincy Street 790, Wildwood, USA",
+        "price": 66.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Chauncey Street 613, Wyoming, USA",
+        "dropoff": "Herkimer Street 977, Twilight, USA",
+        "price": 58.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lacon Court 733, Dante, USA",
+        "dropoff": "Metropolitan Avenue 412, Rote, USA",
+        "price": 72.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Duryea Court 136, Vivian, USA",
+        "dropoff": "Ryder Street 250, Leyner, USA",
+        "price": 68.93
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Albemarle Terrace 147, Fairlee, USA",
+        "dropoff": "Wyona Street 984, Canterwood, USA",
+        "price": 76.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Harwood Place 488, Downsville, USA",
+        "dropoff": "Dictum Court 518, Takilma, USA",
+        "price": 91.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gardner Avenue 931, Greenbackville, USA",
+        "dropoff": "Sapphire Street 683, Brownlee, USA",
+        "price": 47.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Rochester Avenue 943, Crayne, USA",
+        "dropoff": "Lombardy Street 249, Odessa, USA",
+        "price": 89.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dunne Place 358, Noxen, USA",
+        "dropoff": "Congress Street 239, Taft, USA",
+        "price": 67.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Central Avenue 501, Comptche, USA",
+        "dropoff": "Vandalia Avenue 222, Blairstown, USA",
+        "price": 16.66
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Flatbush Avenue 645, Verdi, USA",
+        "dropoff": "Willow Street 822, Wilsonia, USA",
+        "price": 77.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Jefferson Street 922, Echo, USA",
+        "dropoff": "Moore Place 207, Cascades, USA",
+        "price": 58.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Strong Place 896, Idledale, USA",
+        "dropoff": "Benson Avenue 37, Allentown, USA",
+        "price": 93.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cumberland Street 244, Glendale, USA",
+        "dropoff": "Boerum Place 189, Eggertsville, USA",
+        "price": 46.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Portal Street 7, Leming, USA",
+        "dropoff": "Fayette Street 675, Kansas, USA",
+        "price": 94.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Suydam Place 126, Chase, USA",
+        "dropoff": "Gates Avenue 89, Robinson, USA",
+        "price": 90.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Boardwalk  448, Orviston, USA",
+        "dropoff": "Homecrest Court 910, Brethren, USA",
+        "price": 93.46
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Temple Court 784, Ernstville, USA",
+        "dropoff": "Kaufman Place 544, Harrison, USA",
+        "price": 92.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Glenmore Avenue 660, Lacomb, USA",
+        "dropoff": "Lancaster Avenue 544, Norwood, USA",
+        "price": 38.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sheffield Avenue 338, Bonanza, USA",
+        "dropoff": "Lloyd Court 16, Floris, USA",
+        "price": 14.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bryant Street 108, Tolu, USA",
+        "dropoff": "Arion Place 408, Rossmore, USA",
+        "price": 73.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Stockholm Street 302, Aguila, USA",
+        "dropoff": "Duryea Place 511, Islandia, USA",
+        "price": 23.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Monroe Place 589, Trucksville, USA",
+        "dropoff": "Haring Street 57, Crisman, USA",
+        "price": 60.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bradford Street 115, Colton, USA",
+        "dropoff": "Freeman Street 986, Fairview, USA",
+        "price": 27.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kermit Place 513, Cataract, USA",
+        "dropoff": "Walker Court 65, Caln, USA",
+        "price": 61.27
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Metrotech Courtr 888, Dale, USA",
+        "dropoff": "Heyward Street 838, Snyderville, USA",
+        "price": 38.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cass Place 656, Bagtown, USA",
+        "dropoff": "Evans Street 830, Marienthal, USA",
+        "price": 88.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Noll Street 192, Brownsville, USA",
+        "dropoff": "Douglass Street 218, Saddlebrooke, USA",
+        "price": 11.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Catherine Street 58, Rosburg, USA",
+        "dropoff": "Lafayette Walk 551, Tioga, USA",
+        "price": 72.92
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "High Street 214, Faywood, USA",
+        "dropoff": "Belvidere Street 635, Marbury, USA",
+        "price": 62.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Albemarle Road 992, Frystown, USA",
+        "dropoff": "Ford Street 974, Katonah, USA",
+        "price": 66.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Devon Avenue 611, Rivers, USA",
+        "dropoff": "Glendale Court 746, Forbestown, USA",
+        "price": 34.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Homecrest Avenue 997, Hayes, USA",
+        "dropoff": "Roosevelt Place 331, Enetai, USA",
+        "price": 85.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cove Lane 643, Mathews, USA",
+        "dropoff": "Nixon Court 521, Inkerman, USA",
+        "price": 61.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Tapscott Avenue 773, Riverton, USA",
+        "dropoff": "Calder Place 541, Clinton, USA",
+        "price": 79.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Emmons Avenue 787, Ebro, USA",
+        "dropoff": "Plymouth Street 144, Avalon, USA",
+        "price": 32.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Clark Street 480, Belva, USA",
+        "dropoff": "Broadway  157, Crenshaw, USA",
+        "price": 10.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Clay Street 945, Chilton, USA",
+        "dropoff": "Bokee Court 316, Frierson, USA",
+        "price": 86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Conway Street 246, Yonah, USA",
+        "dropoff": "Bethel Loop 181, Brady, USA",
+        "price": 62.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Roosevelt Court 778, Cetronia, USA",
+        "dropoff": "Hope Street 803, National, USA",
+        "price": 58.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hubbard Street 292, Munjor, USA",
+        "dropoff": "Hemlock Street 747, Sanders, USA",
+        "price": 92.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Farragut Road 772, Delshire, USA",
+        "dropoff": "Montague Street 612, Wakarusa, USA",
+        "price": 68.46
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Suydam Street 147, Noblestown, USA",
+        "dropoff": "Eckford Street 821, Cumberland, USA",
+        "price": 34.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Nelson Street 887, Leland, USA",
+        "dropoff": "Lefferts Avenue 39, Gilmore, USA",
+        "price": 25.26
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Doughty Street 389, Moraida, USA",
+        "dropoff": "Flatlands Avenue 199, Nash, USA",
+        "price": 78.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Perry Place 408, Whitewater, USA",
+        "dropoff": "Union Avenue 294, Centerville, USA",
+        "price": 87.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Howard Avenue 911, Harmon, USA",
+        "dropoff": "Herbert Street 245, Sisquoc, USA",
+        "price": 12.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Richardson Street 673, Hebron, USA",
+        "dropoff": "Louisiana Avenue 140, Rosine, USA",
+        "price": 48.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Melrose Street 409, Elizaville, USA",
+        "dropoff": "Tech Place 723, Blackgum, USA",
+        "price": 26.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sedgwick Street 951, Bennett, USA",
+        "dropoff": "King Street 492, Tyro, USA",
+        "price": 62.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Monroe Street 907, Movico, USA",
+        "dropoff": "Debevoise Avenue 270, Conway, USA",
+        "price": 72.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bayview Place 634, Winesburg, USA",
+        "dropoff": "Newel Street 286, Fidelis, USA",
+        "price": 32.73
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hooper Street 254, Mayfair, USA",
+        "dropoff": "Village Road 874, Enlow, USA",
+        "price": 15.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Elliott Walk 448, Lodoga, USA",
+        "dropoff": "Albany Avenue 441, Biddle, USA",
+        "price": 73.46
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lott Place 160, Oberlin, USA",
+        "dropoff": "Hastings Street 909, Coral, USA",
+        "price": 80.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kenilworth Place 609, Taycheedah, USA",
+        "dropoff": "Times Placez 70, Thatcher, USA",
+        "price": 43.93
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Aitken Place 309, Lithium, USA",
+        "dropoff": "Wilson Street 723, Brogan, USA",
+        "price": 25.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Harbor Court 692, Brambleton, USA",
+        "dropoff": "Coventry Road 492, Valle, USA",
+        "price": 31.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Manhattan Court 811, Salvo, USA",
+        "dropoff": "Losee Terrace 249, Gardners, USA",
+        "price": 21.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Grafton Street 800, Glidden, USA",
+        "dropoff": "Strauss Street 928, Bowden, USA",
+        "price": 57.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lynch Street 167, Northridge, USA",
+        "dropoff": "Chapel Street 309, Hiseville, USA",
+        "price": 65.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Grove Place 953, Richford, USA",
+        "dropoff": "Putnam Avenue 460, Sparkill, USA",
+        "price": 34.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Joval Court 182, Edmund, USA",
+        "dropoff": "Pierrepont Place 2, Curtice, USA",
+        "price": 90.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Railroad Avenue 972, Johnsonburg, USA",
+        "dropoff": "Dakota Place 973, Wakulla, USA",
+        "price": 69.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Baltic Street 658, Cumminsville, USA",
+        "dropoff": "Hausman Street 84, Waterford, USA",
+        "price": 78.66
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Post Court 433, Gerber, USA",
+        "dropoff": "Debevoise Street 400, Beaulieu, USA",
+        "price": 78.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dupont Street 606, Eagletown, USA",
+        "dropoff": "Ashland Place 615, Boykin, USA",
+        "price": 49.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Vista Place 169, Rodman, USA",
+        "dropoff": "Dewitt Avenue 386, Nelson, USA",
+        "price": 88.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Veranda Place 680, Selma, USA",
+        "dropoff": "Girard Street 125, Northchase, USA",
+        "price": 30.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ira Court 296, Ola, USA",
+        "dropoff": "Gem Street 808, Carrizo, USA",
+        "price": 27.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Herkimer Court 581, Wheatfields, USA",
+        "dropoff": "Bush Street 672, Rushford, USA",
+        "price": 69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hillel Place 594, Newkirk, USA",
+        "dropoff": "Dobbin Street 326, Urbana, USA",
+        "price": 50.71
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Burnett Street 968, Alden, USA",
+        "dropoff": "Malta Street 75, Gratton, USA",
+        "price": 18.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Fiske Place 153, Coultervillle, USA",
+        "dropoff": "Bulwer Place 393, Dawn, USA",
+        "price": 23.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Box Street 228, Shepardsville, USA",
+        "dropoff": "Keen Court 578, Coloma, USA",
+        "price": 60.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Woodside Avenue 47, Bison, USA",
+        "dropoff": "Tiffany Place 78, Loma, USA",
+        "price": 15.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Micieli Place 670, Bentley, USA",
+        "dropoff": "Etna Street 26, Waterloo, USA",
+        "price": 10.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Forbell Street 497, Umapine, USA",
+        "dropoff": "India Street 394, Nutrioso, USA",
+        "price": 45.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Goodwin Place 359, Crawfordsville, USA",
+        "dropoff": "Hart Place 371, Sardis, USA",
+        "price": 90.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Adelphi Street 777, Boyd, USA",
+        "dropoff": "Winthrop Street 94, Nanafalia, USA",
+        "price": 92.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Quay Street 673, Craig, USA",
+        "dropoff": "Bowne Street 975, Ferney, USA",
+        "price": 30.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Arkansas Drive 883, Greenbush, USA",
+        "dropoff": "Milton Street 162, Sunriver, USA",
+        "price": 89.29
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Clifton Place 709, Alafaya, USA",
+        "dropoff": "Hinckley Place 865, Riviera, USA",
+        "price": 29.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Erskine Loop 526, Brandermill, USA",
+        "dropoff": "Croton Loop 371, Ogema, USA",
+        "price": 66.92
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Caton Avenue 526, Wanamie, USA",
+        "dropoff": "Holt Court 200, Omar, USA",
+        "price": 12.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bergen Avenue 266, Fillmore, USA",
+        "dropoff": "Dahill Road 839, Highland, USA",
+        "price": 10.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sumpter Street 830, Veyo, USA",
+        "dropoff": "Ellery Street 252, Maplewood, USA",
+        "price": 45.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Leonora Court 443, Genoa, USA",
+        "dropoff": "Seagate Terrace 763, Graniteville, USA",
+        "price": 59.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Pleasant Place 401, Klondike, USA",
+        "dropoff": "Hanson Place 298, Sims, USA",
+        "price": 67.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Jackson Place 255, Wattsville, USA",
+        "dropoff": "Crystal Street 587, Gloucester, USA",
+        "price": 21.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Engert Avenue 60, Tetherow, USA",
+        "dropoff": "Clifford Place 627, Zeba, USA",
+        "price": 39.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Stratford Road 480, Carrsville, USA",
+        "dropoff": "Schenck Place 734, Whitehaven, USA",
+        "price": 32.61
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bassett Avenue 656, Avoca, USA",
+        "dropoff": "Bills Place 34, Juntura, USA",
+        "price": 32.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Banker Street 745, Tooleville, USA",
+        "dropoff": "Brigham Street 540, Belfair, USA",
+        "price": 62.67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gilmore Court 514, Marne, USA",
+        "dropoff": "Ludlam Place 493, Jacksonburg, USA",
+        "price": 53.31
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Verona Place 42, Dubois, USA",
+        "dropoff": "Greenwood Avenue 407, Connerton, USA",
+        "price": 96.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Glen Street 829, Succasunna, USA",
+        "dropoff": "Frank Court 160, Sperryville, USA",
+        "price": 79.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bristol Street 892, Kennedyville, USA",
+        "dropoff": "Barbey Street 978, Stewartville, USA",
+        "price": 85.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lafayette Avenue 889, Swartzville, USA",
+        "dropoff": "Grand Street 784, Groton, USA",
+        "price": 37.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kane Street 436, Roeville, USA",
+        "dropoff": "Richmond Street 535, Gracey, USA",
+        "price": 22.61
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Eastern Parkway 914, Alleghenyville, USA",
+        "dropoff": "Beach Place 988, Vandiver, USA",
+        "price": 81.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Revere Place 910, Somerset, USA",
+        "dropoff": "Kiely Place 783, Thomasville, USA",
+        "price": 94.53
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bay Avenue 164, Lookingglass, USA",
+        "dropoff": "Lee Avenue 828, Rosewood, USA",
+        "price": 57.82
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Concord Street 646, Roderfield, USA",
+        "dropoff": "Ditmars Street 145, Mulberry, USA",
+        "price": 68.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Folsom Place 669, Loveland, USA",
+        "dropoff": "Powers Street 511, Foxworth, USA",
+        "price": 18.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Langham Street 169, Bayview, USA",
+        "dropoff": "Stuyvesant Avenue 835, Talpa, USA",
+        "price": 45.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Elton Street 920, Hartsville/Hartley, USA",
+        "dropoff": "Frost Street 723, Rockingham, USA",
+        "price": 91.31
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Vandervoort Place 408, Hemlock, USA",
+        "dropoff": "Rockaway Avenue 78, Day, USA",
+        "price": 52.1
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Mill Avenue 955, Choctaw, USA",
+        "dropoff": "Ridge Boulevard 763, Ellerslie, USA",
+        "price": 56.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Crosby Avenue 604, Advance, USA",
+        "dropoff": "Dank Court 93, Hasty, USA",
+        "price": 71.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lake Street 290, Deercroft, USA",
+        "dropoff": "Campus Place 783, Tryon, USA",
+        "price": 18.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Carroll Street 256, Eastvale, USA",
+        "dropoff": "Elm Avenue 527, Southmont, USA",
+        "price": 93.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Garfield Place 889, Roulette, USA",
+        "dropoff": "Balfour Place 130, Williams, USA",
+        "price": 10.92
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Crown Street 537, Hondah, USA",
+        "dropoff": "Fay Court 762, Vicksburg, USA",
+        "price": 49.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hanover Place 972, Cochranville, USA",
+        "dropoff": "Howard Place 960, Chloride, USA",
+        "price": 80.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bowery Street 355, Hailesboro, USA",
+        "dropoff": "Whitwell Place 296, Otranto, USA",
+        "price": 98.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Nautilus Avenue 103, Wheaton, USA",
+        "dropoff": "Brightwater Court 973, Bainbridge, USA",
+        "price": 98.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Anchorage Place 158, Oneida, USA",
+        "dropoff": "Ryder Avenue 608, Heil, USA",
+        "price": 18.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Plaza Street 456, Yardville, USA",
+        "dropoff": "Montgomery Place 135, Indio, USA",
+        "price": 75.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Centre Street 504, Cartwright, USA",
+        "dropoff": "Kensington Walk 683, Yorklyn, USA",
+        "price": 36.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Brooklyn Road 610, Dundee, USA",
+        "dropoff": "Bergen Court 748, Sandston, USA",
+        "price": 19.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bouck Court 255, Dana, USA",
+        "dropoff": "Beayer Place 70, Sunbury, USA",
+        "price": 15.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bond Street 682, Kenwood, USA",
+        "dropoff": "Williams Court 9, Konterra, USA",
+        "price": 40.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cozine Avenue 107, Carlos, USA",
+        "dropoff": "Doone Court 625, Wawona, USA",
+        "price": 62.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lake Avenue 79, Hobucken, USA",
+        "dropoff": "Hudson Avenue 335, Rivereno, USA",
+        "price": 18.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Independence Avenue 402, Catharine, USA",
+        "dropoff": "Church Lane 70, Longbranch, USA",
+        "price": 18.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gallatin Place 442, Murillo, USA",
+        "dropoff": "Lawrence Avenue 499, Richville, USA",
+        "price": 75.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Front Street 728, Winfred, USA",
+        "dropoff": "Bliss Terrace 374, Coalmont, USA",
+        "price": 51.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hewes Street 630, Blue, USA",
+        "dropoff": "Lexington Avenue 551, Lafferty, USA",
+        "price": 58.24
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Holmes Lane 21, Cliff, USA",
+        "dropoff": "Kings Place 62, Neibert, USA",
+        "price": 15.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Herkimer Place 948, Collins, USA",
+        "dropoff": "Harbor Lane 226, Brenton, USA",
+        "price": 17.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Perry Terrace 589, Deputy, USA",
+        "dropoff": "Himrod Street 174, Woodlands, USA",
+        "price": 26.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dekalb Avenue 142, Hall, USA",
+        "dropoff": "Wolf Place 589, Bartonsville, USA",
+        "price": 75.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Randolph Street 253, Salunga, USA",
+        "dropoff": "Royce Street 501, Stockdale, USA",
+        "price": 32.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Verona Street 163, Bowie, USA",
+        "dropoff": "Vanderbilt Avenue 220, Hickory, USA",
+        "price": 27.67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Denton Place 562, Fingerville, USA",
+        "dropoff": "Thomas Street 551, Cutter, USA",
+        "price": 28.1
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Fair Street 796, Savannah, USA",
+        "dropoff": "Bancroft Place 280, Trail, USA",
+        "price": 23.97
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sedgwick Place 103, Goodville, USA",
+        "dropoff": "Polhemus Place 310, Ahwahnee, USA",
+        "price": 21.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Leonard Street 946, Tivoli, USA",
+        "dropoff": "Woodbine Street 585, Remington, USA",
+        "price": 41.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Logan Street 978, Cedarville, USA",
+        "dropoff": "River Street 201, Rehrersburg, USA",
+        "price": 27.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hamilton Avenue 953, Bloomington, USA",
+        "dropoff": "Thames Street 700, Dorneyville, USA",
+        "price": 21.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Conduit Boulevard 408, Kersey, USA",
+        "dropoff": "Elmwood Avenue 1000, Cavalero, USA",
+        "price": 74.82
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Madoc Avenue 351, Lewis, USA",
+        "dropoff": "Poplar Avenue 514, Wintersburg, USA",
+        "price": 23.24
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bedford Avenue 615, Idamay, USA",
+        "dropoff": "Jamaica Avenue 400, Nescatunga, USA",
+        "price": 31.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cook Street 284, Darrtown, USA",
+        "dropoff": "Glenwood Road 1, Bellfountain, USA",
+        "price": 89.27
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lawrence Street 575, Herald, USA",
+        "dropoff": "Poly Place 978, Mappsville, USA",
+        "price": 44.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Fairview Place 986, Gibbsville, USA",
+        "dropoff": "Stryker Street 35, Malo, USA",
+        "price": 47.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Rutledge Street 911, Siglerville, USA",
+        "dropoff": "Kenmore Terrace 649, Lupton, USA",
+        "price": 55.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Garden Place 950, Vincent, USA",
+        "dropoff": "Chestnut Avenue 104, Wescosville, USA",
+        "price": 70.35
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Liberty Avenue 103, Englevale, USA",
+        "dropoff": "Beekman Place 147, Bascom, USA",
+        "price": 29.31
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Schaefer Street 739, Gibsonia, USA",
+        "dropoff": "Sandford Street 335, Maury, USA",
+        "price": 10.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Diamond Street 943, Steinhatchee, USA",
+        "dropoff": "Bragg Court 515, Camptown, USA",
+        "price": 73.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Farragut Place 386, Keller, USA",
+        "dropoff": "Troy Avenue 741, Warren, USA",
+        "price": 75.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dikeman Street 402, Singer, USA",
+        "dropoff": "Henderson Walk 154, Martell, USA",
+        "price": 62.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Empire Boulevard 667, Vowinckel, USA",
+        "dropoff": "Kane Place 159, Eureka, USA",
+        "price": 57.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Covert Street 736, Cawood, USA",
+        "dropoff": "Poplar Street 314, Boomer, USA",
+        "price": 55.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bedell Lane 715, Marenisco, USA",
+        "dropoff": "Dennett Place 809, Mapletown, USA",
+        "price": 32.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Christopher Avenue 504, Oley, USA",
+        "dropoff": "Heath Place 459, Barronett, USA",
+        "price": 34.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Madeline Court 224, Edneyville, USA",
+        "dropoff": "Degraw Street 278, Kula, USA",
+        "price": 75.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bay Parkway 356, Marshall, USA",
+        "dropoff": "Schenectady Avenue 522, Bellamy, USA",
+        "price": 25.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Channel Avenue 733, Roland, USA",
+        "dropoff": "Newton Street 283, Lopezo, USA",
+        "price": 24.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Auburn Place 815, Lorraine, USA",
+        "dropoff": "Locust Avenue 824, Campo, USA",
+        "price": 90.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Osborn Street 412, Matthews, USA",
+        "dropoff": "Boynton Place 312, Sattley, USA",
+        "price": 42.67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Mersereau Court 671, Fairforest, USA",
+        "dropoff": "Taaffe Place 161, Coyote, USA",
+        "price": 80.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kingsway Place 304, Stouchsburg, USA",
+        "dropoff": "Bushwick Avenue 649, Washington, USA",
+        "price": 89.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Seba Avenue 783, Yogaville, USA",
+        "dropoff": "Saratoga Avenue 739, Garnet, USA",
+        "price": 47.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bijou Avenue 278, Allendale, USA",
+        "dropoff": "Evergreen Avenue 39, Ypsilanti, USA",
+        "price": 41.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Irving Avenue 640, Sultana, USA",
+        "dropoff": "Story Court 293, Soudan, USA",
+        "price": 77.1
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Amber Street 884, Buxton, USA",
+        "dropoff": "Jamison Lane 843, Whitmer, USA",
+        "price": 92.34
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Borinquen Pl 850, Hiko, USA",
+        "dropoff": "McKibbin Street 495, Moscow, USA",
+        "price": 57.74
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Court Square 412, Lemoyne, USA",
+        "dropoff": "Fillmore Avenue 806, Eagleville, USA",
+        "price": 53.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lincoln Road 875, Soham, USA",
+        "dropoff": "Furman Street 771, Harold, USA",
+        "price": 41.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Woodhull Street 432, Naomi, USA",
+        "dropoff": "Withers Street 1000, Grayhawk, USA",
+        "price": 73.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Manor Court 417, Ryderwood, USA",
+        "dropoff": "Lloyd Street 762, Crown, USA",
+        "price": 78.97
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kenmore Court 844, Imperial, USA",
+        "dropoff": "Vermont Street 109, Hiwasse, USA",
+        "price": 22.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Pulaski Street 174, Joes, USA",
+        "dropoff": "Hutchinson Court 994, Brecon, USA",
+        "price": 82.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Seigel Court 722, Beaverdale, USA",
+        "dropoff": "Sutton Street 124, Belvoir, USA",
+        "price": 67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kingston Avenue 978, Cecilia, USA",
+        "dropoff": "Woodrow Court 124, Linwood, USA",
+        "price": 71.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Seton Place 664, Courtland, USA",
+        "dropoff": "Stoddard Place 372, Manchester, USA",
+        "price": 72.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Argyle Road 896, Vale, USA",
+        "dropoff": "Columbus Place 581, Finzel, USA",
+        "price": 73.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Locust Street 161, Canby, USA",
+        "dropoff": "Norman Avenue 580, Cornfields, USA",
+        "price": 68.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Canton Court 627, Sehili, USA",
+        "dropoff": "Hicks Street 310, Dunlo, USA",
+        "price": 47.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Remsen Street 317, Ilchester, USA",
+        "dropoff": "Beaver Street 31, Cucumber, USA",
+        "price": 74.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ridge Court 117, Madrid, USA",
+        "dropoff": "Fleet Street 119, Fostoria, USA",
+        "price": 77.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Schweikerts Walk 126, Jardine, USA",
+        "dropoff": "Milford Street 930, Kaka, USA",
+        "price": 47.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Huntington Street 78, Stollings, USA",
+        "dropoff": "Jackson Court 787, Evergreen, USA",
+        "price": 35.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Meeker Avenue 713, Stevens, USA",
+        "dropoff": "Fillmore Place 838, Garfield, USA",
+        "price": 29.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Garden Street 999, Sussex, USA",
+        "dropoff": "Canarsie Road 163, Cherokee, USA",
+        "price": 22.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Canda Avenue 535, Sanford, USA",
+        "dropoff": "Laurel Avenue 881, Summerfield, USA",
+        "price": 45.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Fanchon Place 383, Ezel, USA",
+        "dropoff": "Knickerbocker Avenue 390, Blodgett, USA",
+        "price": 29.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ridgewood Place 35, Churchill, USA",
+        "dropoff": "Dorchester Road 521, Tyhee, USA",
+        "price": 74.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Tabor Court 981, Derwood, USA",
+        "dropoff": "Newkirk Avenue 196, Marysville, USA",
+        "price": 15.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Colonial Road 44, Allamuchy, USA",
+        "dropoff": "Pioneer Street 930, Glenbrook, USA",
+        "price": 62.93
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Erasmus Street 893, Farmington, USA",
+        "dropoff": "Llama Court 587, Balm, USA",
+        "price": 31.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lott Avenue 764, Lumberton, USA",
+        "dropoff": "Roder Avenue 232, Clara, USA",
+        "price": 31.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lewis Place 176, Gordon, USA",
+        "dropoff": "Seagate Avenue 184, Frank, USA",
+        "price": 66.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Seeley Street 250, Shrewsbury, USA",
+        "dropoff": "Guider Avenue 957, Cassel, USA",
+        "price": 97.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Allen Avenue 522, Cuylerville, USA",
+        "dropoff": "Varick Avenue 230, Chestnut, USA",
+        "price": 33.42
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Fuller Place 897, Dyckesville, USA",
+        "dropoff": "Howard Alley 662, Brantleyville, USA",
+        "price": 81.24
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Jewel Street 94, Morgandale, USA",
+        "dropoff": "Wilson Avenue 597, Hollins, USA",
+        "price": 47.43
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Huron Street 586, Adelino, USA",
+        "dropoff": "Ralph Avenue 741, Trexlertown, USA",
+        "price": 37.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Rapelye Street 450, Aurora, USA",
+        "dropoff": "Nevins Street 323, Dunnavant, USA",
+        "price": 24.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Nostrand Avenue 464, Unionville, USA",
+        "dropoff": "Kathleen Court 693, Harborton, USA",
+        "price": 45.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Middagh Street 239, Gallina, USA",
+        "dropoff": "Cumberland Walk 375, Wright, USA",
+        "price": 81.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Fountain Avenue 761, Deseret, USA",
+        "dropoff": "Miami Court 759, Chical, USA",
+        "price": 75.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Macon Street 608, Kapowsin, USA",
+        "dropoff": "Nolans Lane 684, Stewart, USA",
+        "price": 87.26
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Tompkins Place 295, Elbert, USA",
+        "dropoff": "Highland Avenue 130, Longoria, USA",
+        "price": 88.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Morgan Avenue 263, Marion, USA",
+        "dropoff": "Everit Street 441, Chesterfield, USA",
+        "price": 91.28
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Varanda Place 537, Delwood, USA",
+        "dropoff": "Clinton Street 257, Navarre, USA",
+        "price": 87.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "McKibben Street 85, Snelling, USA",
+        "dropoff": "Midwood Street 70, Grenelefe, USA",
+        "price": 68.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hale Avenue 316, Brookfield, USA",
+        "dropoff": "Highland Place 357, Haena, USA",
+        "price": 91.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dwight Street 448, Terlingua, USA",
+        "dropoff": "Batchelder Street 609, Romeville, USA",
+        "price": 15.72
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Madison Street 234, Bentonville, USA",
+        "dropoff": "Just Court 810, Woodruff, USA",
+        "price": 69.78
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ferry Place 736, Morriston, USA",
+        "dropoff": "Jerome Street 45, Russellville, USA",
+        "price": 14.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Graham Avenue 622, Olney, USA",
+        "dropoff": "Hampton Place 221, Coaldale, USA",
+        "price": 92.27
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ide Court 977, Corriganville, USA",
+        "dropoff": "Irving Street 520, Winston, USA",
+        "price": 98.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Garland Court 714, Keyport, USA",
+        "dropoff": "Montieth Street 56, Abrams, USA",
+        "price": 21.35
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hampton Avenue 106, Clarence, USA",
+        "dropoff": "Brightwater Avenue 330, Freelandville, USA",
+        "price": 57.34
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Green Street 432, Lavalette, USA",
+        "dropoff": "Dodworth Street 683, Gerton, USA",
+        "price": 10.43
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Brown Street 692, Abiquiu, USA",
+        "dropoff": "Stillwell Place 485, Orick, USA",
+        "price": 49.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dover Street 64, Yettem, USA",
+        "dropoff": "Willoughby Avenue 397, Stockwell, USA",
+        "price": 67.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Union Street 302, Greenwich, USA",
+        "dropoff": "Wythe Place 381, Greenfields, USA",
+        "price": 76.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kingsland Avenue 328, Leola, USA",
+        "dropoff": "Halleck Street 357, Websterville, USA",
+        "price": 40.73
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Senator Street 293, Dixie, USA",
+        "dropoff": "Havemeyer Street 367, Southview, USA",
+        "price": 42.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Irvington Place 697, Stagecoach, USA",
+        "dropoff": "Norfolk Street 321, Oasis, USA",
+        "price": 39.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Irwin Street 348, Yukon, USA",
+        "dropoff": "Driggs Avenue 898, Aberdeen, USA",
+        "price": 66.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lorraine Street 450, Basye, USA",
+        "dropoff": "Vanderveer Place 968, Bradenville, USA",
+        "price": 19.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Monaco Place 412, Nadine, USA",
+        "dropoff": "Navy Street 433, Escondida, USA",
+        "price": 96.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Louisa Street 11, Como, USA",
+        "dropoff": "Cleveland Street 687, Wauhillau, USA",
+        "price": 70.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ruby Street 152, Weedville, USA",
+        "dropoff": "Bartlett Place 566, Matheny, USA",
+        "price": 23.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Delmonico Place 205, Dowling, USA",
+        "dropoff": "Alabama Avenue 377, Ona, USA",
+        "price": 90.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Miller Avenue 674, Croom, USA",
+        "dropoff": "Oakland Place 858, Tibbie, USA",
+        "price": 36.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Alice Court 148, Seymour, USA",
+        "dropoff": "Interborough Parkway 167, Osmond, USA",
+        "price": 64.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cortelyou Road 917, Homeworth, USA",
+        "dropoff": "Corbin Place 105, Baden, USA",
+        "price": 13.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sackman Street 764, Madaket, USA",
+        "dropoff": "Butler Street 736, Walland, USA",
+        "price": 96.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Gerritsen Avenue 320, Caron, USA",
+        "dropoff": "Celeste Court 812, Hamilton, USA",
+        "price": 21.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Vermont Court 867, Celeryville, USA",
+        "dropoff": "Beard Street 613, Layhill, USA",
+        "price": 64.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Java Street 682, Berwind, USA",
+        "dropoff": "Rodney Street 553, Fairacres, USA",
+        "price": 76.67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cambridge Place 291, Sexton, USA",
+        "dropoff": "Rost Place 887, Wyano, USA",
+        "price": 54.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Charles Place 607, Sylvanite, USA",
+        "dropoff": "Buffalo Avenue 418, Glasgow, USA",
+        "price": 55.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Eldert Street 637, Rodanthe, USA",
+        "dropoff": "George Street 85, Whipholt, USA",
+        "price": 85.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Conover Street 147, Fredericktown, USA",
+        "dropoff": "Baughman Place 410, Babb, USA",
+        "price": 62.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Durland Place 846, Galesville, USA",
+        "dropoff": "Harrison Place 873, Gorst, USA",
+        "price": 44.15
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Alton Place 358, Flintville, USA",
+        "dropoff": "Lewis Avenue 670, Tilleda, USA",
+        "price": 17.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Veronica Place 619, Bedias, USA",
+        "dropoff": "Thatford Avenue 394, Clarksburg, USA",
+        "price": 57.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Garnet Street 102, Hanover, USA",
+        "dropoff": "Schenck Avenue 194, Freeburn, USA",
+        "price": 66.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hendrickson Place 414, Coinjock, USA",
+        "dropoff": "Coffey Street 853, Falmouth, USA",
+        "price": 74.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Schermerhorn Street 619, Waiohinu, USA",
+        "dropoff": "Chester Street 912, Bladensburg, USA",
+        "price": 48.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cadman Plaza 450, Juarez, USA",
+        "dropoff": "Wolcott Street 54, Caroleen, USA",
+        "price": 87.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Powell Street 731, Cowiche, USA",
+        "dropoff": "Porter Avenue 680, Defiance, USA",
+        "price": 52.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dekoven Court 345, Moquino, USA",
+        "dropoff": "Montauk Court 591, Crumpler, USA",
+        "price": 36.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Chester Avenue 492, Kohatk, USA",
+        "dropoff": "Paerdegat Avenue 571, Sugartown, USA",
+        "price": 53.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Raleigh Place 156, Clayville, USA",
+        "dropoff": "Lincoln Place 202, Fedora, USA",
+        "price": 66.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Harrison Avenue 114, Trona, USA",
+        "dropoff": "Bedford Place 89, Felt, USA",
+        "price": 94.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cooper Street 177, Homeland, USA",
+        "dropoff": "Manhattan Avenue 206, Worton, USA",
+        "price": 40.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Harway Avenue 443, Helen, USA",
+        "dropoff": "Essex Street 216, Dixonville, USA",
+        "price": 36.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bushwick Place 804, Boling, USA",
+        "dropoff": "Livonia Avenue 615, Rosedale, USA",
+        "price": 40.59
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Wogan Terrace 712, Welda, USA",
+        "dropoff": "Stewart Street 352, Cotopaxi, USA",
+        "price": 24.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Orange Street 776, Cobbtown, USA",
+        "dropoff": "Tudor Terrace 424, Glenshaw, USA",
+        "price": 36.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sunnyside Court 854, Caberfae, USA",
+        "dropoff": "Butler Place 186, Venice, USA",
+        "price": 60.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Carlton Avenue 529, Robinette, USA",
+        "dropoff": "Stockton Street 352, Coventry, USA",
+        "price": 17.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Troutman Street 179, Foscoe, USA",
+        "dropoff": "Ross Street 79, Neahkahnie, USA",
+        "price": 13.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Conklin Avenue 580, Silkworth, USA",
+        "dropoff": "Vandervoort Avenue 405, Fairfield, USA",
+        "price": 45.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ainslie Street 749, Carlton, USA",
+        "dropoff": "Tampa Court 249, Duryea, USA",
+        "price": 50.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hoyt Street 226, Dargan, USA",
+        "dropoff": "Vine Street 513, Manila, USA",
+        "price": 52.93
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Emerald Street 566, Fannett, USA",
+        "dropoff": "Grant Avenue 278, Eastmont, USA",
+        "price": 42.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bergen Street 606, Dodge, USA",
+        "dropoff": "Amersfort Place 102, Leroy, USA",
+        "price": 68.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Richards Street 265, Tedrow, USA",
+        "dropoff": "Grimes Road 466, Riegelwood, USA",
+        "price": 46.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Everett Avenue 124, Glenville, USA",
+        "dropoff": "Matthews Court 410, Harleigh, USA",
+        "price": 44.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kosciusko Street 843, Salix, USA",
+        "dropoff": "Imlay Street 542, Woodlake, USA",
+        "price": 99.99
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bridge Street 602, Vallonia, USA",
+        "dropoff": "Knight Court 337, Davenport, USA",
+        "price": 26.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bergen Place 129, Ticonderoga, USA",
+        "dropoff": "Adams Street 577, Tilden, USA",
+        "price": 56.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Maple Street 584, Cornucopia, USA",
+        "dropoff": "Cheever Place 18, Columbus, USA",
+        "price": 46.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lake Place 437, Sedley, USA",
+        "dropoff": "Eagle Street 241, Trinway, USA",
+        "price": 74.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Beverly Road 137, Kirk, USA",
+        "dropoff": "Coyle Street 355, Lydia, USA",
+        "price": 97.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cooke Court 318, Caspar, USA",
+        "dropoff": "Mill Lane 741, Biehle, USA",
+        "price": 92.53
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Berry Street 104, Masthope, USA",
+        "dropoff": "Terrace Place 711, Clarktown, USA",
+        "price": 94.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Windsor Place 973, Saranap, USA",
+        "dropoff": "Riverdale Avenue 862, Garberville, USA",
+        "price": 28.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Rock Street 445, Hampstead, USA",
+        "dropoff": "Pooles Lane 729, Gouglersville, USA",
+        "price": 12.99
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Onderdonk Avenue 630, Jacksonwald, USA",
+        "dropoff": "Oliver Street 478, Ribera, USA",
+        "price": 32.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Beadel Street 377, Ivanhoe, USA",
+        "dropoff": "Johnson Avenue 405, Hardyville, USA",
+        "price": 63.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Granite Street 903, Waukeenah, USA",
+        "dropoff": "Hegeman Avenue 265, Slovan, USA",
+        "price": 11.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sullivan Street 455, Savage, USA",
+        "dropoff": "Clara Street 592, Chaparrito, USA",
+        "price": 83.71
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Blake Court 501, Sanborn, USA",
+        "dropoff": "Berkeley Place 696, Titanic, USA",
+        "price": 83.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Scholes Street 407, Staples, USA",
+        "dropoff": "Oriental Boulevard 185, Sterling, USA",
+        "price": 48.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Elizabeth Place 978, Hoehne, USA",
+        "dropoff": "Creamer Street 954, Belgreen, USA",
+        "price": 29.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cypress Court 824, Joppa, USA",
+        "dropoff": "Tillary Street 228, Roy, USA",
+        "price": 90.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Harkness Avenue 823, Benson, USA",
+        "dropoff": "Waldane Court 912, Bannock, USA",
+        "price": 68.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Beverley Road 470, Kanauga, USA",
+        "dropoff": "Greenpoint Avenue 268, Nipinnawasee, USA",
+        "price": 86.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Grace Court 890, Muse, USA",
+        "dropoff": "Taylor Street 67, Cresaptown, USA",
+        "price": 95.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Falmouth Street 207, Florence, USA",
+        "dropoff": "Hancock Street 601, Bluffview, USA",
+        "price": 96.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Noel Avenue 215, Kenmar, USA",
+        "dropoff": "Macdougal Street 785, Datil, USA",
+        "price": 82.29
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cropsey Avenue 723, Jessie, USA",
+        "dropoff": "Luquer Street 929, Utting, USA",
+        "price": 87.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kossuth Place 281, Wilmington, USA",
+        "dropoff": "Clermont Avenue 515, Mooresburg, USA",
+        "price": 64.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cherry Street 582, Walton, USA",
+        "dropoff": "Crescent Street 255, Henrietta, USA",
+        "price": 90.72
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Moultrie Street 472, Germanton, USA",
+        "dropoff": "Prince Street 767, Dola, USA",
+        "price": 70.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Pierrepont Street 875, Jamestown, USA",
+        "dropoff": "Neptune Court 137, Fruitdale, USA",
+        "price": 23.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bayard Street 140, Kent, USA",
+        "dropoff": "Jay Street 108, Logan, USA",
+        "price": 66.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Cameron Court 39, Springhill, USA",
+        "dropoff": "Atkins Avenue 261, Hendersonville, USA",
+        "price": 20.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Bay Street 168, Edinburg, USA",
+        "dropoff": "Turner Place 129, Wacissa, USA",
+        "price": 32.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Knapp Street 448, Dalton, USA",
+        "dropoff": "Throop Avenue 467, Darbydale, USA",
+        "price": 36.35
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Division Place 278, Calverton, USA",
+        "dropoff": "Oak Street 771, Makena, USA",
+        "price": 68.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Schroeders Avenue 428, Weeksville, USA",
+        "dropoff": "Friel Place 125, Martinsville, USA",
+        "price": 93.71
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lamont Court 822, Brooktrails, USA",
+        "dropoff": "Bath Avenue 747, Falconaire, USA",
+        "price": 42.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Woodruff Avenue 391, Why, USA",
+        "dropoff": "Menahan Street 314, Camas, USA",
+        "price": 71.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Vanderbilt Street 660, Shelby, USA",
+        "dropoff": "Indiana Place 722, Cressey, USA",
+        "price": 25.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Moore Street 148, Cliffside, USA",
+        "dropoff": "Harden Street 770, Westwood, USA",
+        "price": 54.66
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Boerum Street 441, Chautauqua, USA",
+        "dropoff": "Court Street 943, Caledonia, USA",
+        "price": 54.74
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Stillwell Avenue 854, Lawrence, USA",
+        "dropoff": "Brighton Court 711, Holtville, USA",
+        "price": 86.42
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Kay Court 644, Waikele, USA",
+        "dropoff": "Montana Place 617, Chamberino, USA",
+        "price": 37.21
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Coleman Street 855, Klagetoh, USA",
+        "dropoff": "Turnbull Avenue 245, Townsend, USA",
+        "price": 94.78
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Prospect Place 600, Mansfield, USA",
+        "dropoff": "Strickland Avenue 489, Watrous, USA",
+        "price": 95.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Tompkins Avenue 60, Accoville, USA",
+        "dropoff": "Herzl Street 763, Kraemer, USA",
+        "price": 46.34
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Arlington Place 746, Mammoth, USA",
+        "dropoff": "Shale Street 4, Austinburg, USA",
+        "price": 26.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Seacoast Terrace 283, Virgie, USA",
+        "dropoff": "Royce Place 435, Faxon, USA",
+        "price": 33.26
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hunterfly Place 593, Belmont, USA",
+        "dropoff": "Rutherford Place 594, Fairhaven, USA",
+        "price": 29.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Clinton Avenue 357, Turah, USA",
+        "dropoff": "Baycliff Terrace 447, Bartley, USA",
+        "price": 13.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Mayfair Drive 885, Grahamtown, USA",
+        "dropoff": "Clove Road 591, Zortman, USA",
+        "price": 74.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "President Street 70, Norfolk, USA",
+        "dropoff": "Malbone Street 645, Blanco, USA",
+        "price": 35.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Division Avenue 91, Thynedale, USA",
+        "dropoff": "Stuart Street 718, Dexter, USA",
+        "price": 69.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ovington Court 515, Disautel, USA",
+        "dropoff": "Reeve Place 349, Gulf, USA",
+        "price": 19.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Applegate Court 942, Epworth, USA",
+        "dropoff": "Jaffray Street 286, Holcombe, USA",
+        "price": 23.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Downing Street 762, Montura, USA",
+        "dropoff": "Linwood Street 301, Chamizal, USA",
+        "price": 25.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Williamsburg Street 161, Worcester, USA",
+        "dropoff": "Brooklyn Avenue 241, Hoagland, USA",
+        "price": 17.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Williams Avenue 856, Carbonville, USA",
+        "dropoff": "Lawton Street 584, Alfarata, USA",
+        "price": 58.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dunne Court 124, Elfrida, USA",
+        "dropoff": "Ocean Avenue 645, Windsor, USA",
+        "price": 30.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Seaview Court 415, Cazadero, USA",
+        "dropoff": "Monument Walk 270, Outlook, USA",
+        "price": 23.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Delevan Street 856, Sena, USA",
+        "dropoff": "Kent Avenue 16, Topaz, USA",
+        "price": 91.99
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Quentin Street 584, Charco, USA",
+        "dropoff": "Townsend Street 264, Ripley, USA",
+        "price": 85.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Arlington Avenue 768, Fowlerville, USA",
+        "dropoff": "Tapscott Street 999, Shasta, USA",
+        "price": 61.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "College Place 601, Alderpoint, USA",
+        "dropoff": "Stone Avenue 323, Jeff, USA",
+        "price": 50.74
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Rockaway Parkway 832, Veguita, USA",
+        "dropoff": "Hornell Loop 211, Hessville, USA",
+        "price": 56.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Melba Court 95, Durham, USA",
+        "dropoff": "Fane Court 584, Springdale, USA",
+        "price": 73.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Jodie Court 429, Starks, USA",
+        "dropoff": "Preston Court 133, Laurelton, USA",
+        "price": 87.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Campus Road 84, Wollochet, USA",
+        "dropoff": "Classon Avenue 767, Coldiron, USA",
+        "price": 86.72
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Juliana Place 743, Bethany, USA",
+        "dropoff": "Columbia Place 264, Belleview, USA",
+        "price": 18.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Utica Avenue 459, Boonville, USA",
+        "dropoff": "Willow Place 333, Independence, USA",
+        "price": 14.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Holly Street 948, Loretto, USA",
+        "dropoff": "Rugby Road 708, Condon, USA",
+        "price": 68.72
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Irving Place 498, Lindcove, USA",
+        "dropoff": "Radde Place 15, Hannasville, USA",
+        "price": 70.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Pacific Street 455, Dragoon, USA",
+        "dropoff": "Seaview Avenue 265, Morningside, USA",
+        "price": 15.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Whitney Avenue 509, Sunwest, USA",
+        "dropoff": "Lenox Road 523, Ronco, USA",
+        "price": 63.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Exeter Street 260, Norvelt, USA",
+        "dropoff": "Johnson Street 42, Kidder, USA",
+        "price": 10.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Ocean Parkway 69, Magnolia, USA",
+        "dropoff": "Wyckoff Avenue 985, Strong, USA",
+        "price": 11.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Otsego Street 426, Williamson, USA",
+        "dropoff": "Brevoort Place 394, Elliston, USA",
+        "price": 84.27
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hinsdale Street 112, Thornport, USA",
+        "dropoff": "Victor Road 841, Efland, USA",
+        "price": 17.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Narrows Avenue 680, Crucible, USA",
+        "dropoff": "Ashford Street 836, Adamstown, USA",
+        "price": 47.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Greene Avenue 423, Oretta, USA",
+        "dropoff": "Montague Terrace 824, Fresno, USA",
+        "price": 85.97
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Clymer Street 26, Brewster, USA",
+        "dropoff": "Tilden Avenue 616, Rew, USA",
+        "price": 60.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Woodpoint Road 701, Lowell, USA",
+        "dropoff": "Willmohr Street 337, Maybell, USA",
+        "price": 56.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Eldert Lane 610, Innsbrook, USA",
+        "dropoff": "Overbaugh Place 779, Needmore, USA",
+        "price": 72.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Billings Place 166, Nettie, USA",
+        "dropoff": "Loring Avenue 992, Berlin, USA",
+        "price": 13.43
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Love Lane 553, Bourg, USA",
+        "dropoff": "Linden Boulevard 82, Devon, USA",
+        "price": 44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Jardine Place 200, Beason, USA",
+        "dropoff": "Ryerson Street 432, Summerset, USA",
+        "price": 50.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Chestnut Street 41, Kempton, USA",
+        "dropoff": "Ivan Court 338, Elrama, USA",
+        "price": 54.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Little Street 983, Lund, USA",
+        "dropoff": "Cobek Court 327, Levant, USA",
+        "price": 65.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Barlow Drive 553, Jugtown, USA",
+        "dropoff": "Bevy Court 194, Bethpage, USA",
+        "price": 69.04
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Varet Street 813, Calvary, USA",
+        "dropoff": "Nassau Avenue 740, Stonybrook, USA",
+        "price": 90.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Duffield Street 914, Ironton, USA",
+        "dropoff": "Marconi Place 262, Caroline, USA",
+        "price": 64.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Grand Avenue 567, Driftwood, USA",
+        "dropoff": "Hawthorne Street 260, Lloyd, USA",
+        "price": 73.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Fulton Street 303, Gila, USA",
+        "dropoff": "Dahlgreen Place 519, Shaft, USA",
+        "price": 21.82
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Newport Street 324, Brule, USA",
+        "dropoff": "Devoe Street 774, Dupuyer, USA",
+        "price": 74.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Wallabout Street 495, Chelsea, USA",
+        "dropoff": "Brighton Avenue 977, Hackneyville, USA",
+        "price": 59.04
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Sumner Place 298, Hegins, USA",
+        "dropoff": "Estate Road 55, Homestead, USA",
+        "price": 35.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Aviation Road 119, Greensburg, USA",
+        "dropoff": "Cranberry Street 565, Emory, USA",
+        "price": 34.93
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Merit Court 205, Waumandee, USA",
+        "dropoff": "Bleecker Street 184, Wedgewood, USA",
+        "price": 67.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Hyman Court 125, Santel, USA",
+        "dropoff": "Maujer Street 153, Vernon, USA",
+        "price": 30.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "McKinley Avenue 77, Sheatown, USA",
+        "dropoff": "Lawn Court 66, Linganore, USA",
+        "price": 32.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Church Avenue 812, Herbster, USA",
+        "dropoff": "Montauk Avenue 74, Blandburg, USA",
+        "price": 99.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Willoughby Street 329, Forestburg, USA",
+        "dropoff": "Bainbridge Street 762, Westphalia, USA",
+        "price": 84.67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Vernon Avenue 331, Hilltop, USA",
+        "dropoff": "Cox Place 547, Cannondale, USA",
+        "price": 23.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Oriental Court 30, Martinez, USA",
+        "dropoff": "Landis Court 83, Cade, USA",
+        "price": 93.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Madison Place 99, Spelter, USA",
+        "dropoff": "Russell Street 402, Dahlen, USA",
+        "price": 29.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Dooley Street 341, Tuskahoma, USA",
+        "dropoff": "Louise Terrace 101, Winchester, USA",
+        "price": 17.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Colonial Court 135, Nicholson, USA",
+        "dropoff": "Krier Place 303, Williston, USA",
+        "price": 80.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Junius Street 681, Delco, USA",
+        "dropoff": "Bennet Court 132, Manitou, USA",
+        "price": 82.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "RideCreated",
+      "body": {
+        "pickup": "Lefferts Place 142, Bakersville, USA",
+        "dropoff": "Thornton Street 50, Harrodsburg, USA",
+        "price": 81.2
+      }
+    }
+  ]

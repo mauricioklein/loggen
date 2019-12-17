@@ -1,0 +1,14 @@
+{
+  "name": "loggen",
+  "version": "1.0.0",
+  "description": "Simple NodeJS log generator app for Datadog logs experiments.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mauricio Klein",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}

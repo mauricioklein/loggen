@@ -1,0 +1,4002 @@
+[
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "037eafd2-d721-48d8-b52f-4785e8238ca1",
+        "price": 85.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b541b2b2-e331-4852-87d8-7987a6780ef4",
+        "price": 82.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "76671516-8d75-4a57-92a5-fbc4abd33b7a",
+        "price": 80.94
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "66e28edf-3743-4a8d-af60-3e3075e40bff",
+        "price": 21.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c6b86574-cd5e-404c-8c37-46475d1eae16",
+        "price": 63.72
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "47b00ab1-0c8b-42ef-bd6d-f1622a083723",
+        "price": 14.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f874305e-65f1-4271-b582-ce213ba28723",
+        "price": 50.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f36d3275-9b27-4955-9741-3a33434a600d",
+        "price": 93.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "65d4eb34-5057-4d72-9808-6f3042ce27ec",
+        "price": 55.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8bf1d391-799b-4286-9a0c-3a2cd15cd201",
+        "price": 91.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "300a485f-3658-4edc-af22-1382c17cbdf9",
+        "price": 11.42
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ae9d3037-adee-40d2-ac45-b522fedb8982",
+        "price": 19.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a5e951c7-9524-4662-8e1e-260c64c85325",
+        "price": 12.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e25a66fd-2a77-440c-96a2-8b6a58e10092",
+        "price": 75.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "90852476-c300-4ef0-95d3-71002cc4ebb3",
+        "price": 96.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f6b22800-200f-4305-b84b-bfe608a9fb20",
+        "price": 96.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f0b942c0-5a1f-4c4d-9c20-dcc02e303f89",
+        "price": 59.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c9f4b616-ce78-4243-9286-70ebc4844556",
+        "price": 40.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5789c051-30f5-4314-9832-8eeb0183f978",
+        "price": 83.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cd367e31-e373-497b-b5b7-dd4c20a11f4f",
+        "price": 85.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "43d410fd-221c-4b5b-9091-327282cf540b",
+        "price": 61.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "221ebd49-654e-4cdf-b3f1-6858ad2dd1ed",
+        "price": 47.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8918bf18-1c01-4e33-ac47-c677ce7843e0",
+        "price": 75.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f78871f4-ec75-4df4-a7c0-b2b6e5649de4",
+        "price": 48.45
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "85d0219b-9813-4582-955a-319146ee7fc0",
+        "price": 19.73
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "45272463-03d5-4a22-8c7b-34d55fedabf6",
+        "price": 67.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "39364ae6-4a2e-41d8-83d0-98ca650942af",
+        "price": 98.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9f755d32-8e72-4410-9f75-64b510e7157b",
+        "price": 19.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3dca6aa2-35e2-44ad-bb0d-947527a2f58d",
+        "price": 44.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "40722e82-2975-456e-b4d0-96215e7e8e9d",
+        "price": 28.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "75b2fd13-45d9-4d38-a00a-3333f5bac908",
+        "price": 47.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c38347dc-fb09-4e1f-9854-1cac8f4f968f",
+        "price": 61.29
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "57f99d16-d4f6-4c2a-898d-8ba8634d080c",
+        "price": 75.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1fca6512-8a16-412d-89e9-8f4670c41e26",
+        "price": 37.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "78b8dc3f-2fb6-4c2a-b382-6e16275f01f3",
+        "price": 13.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b9bb57af-beb9-4129-b532-c2b04bfe7aa4",
+        "price": 40.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "59df4751-c5ca-465c-826a-a6e488ed484e",
+        "price": 84.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "080977f7-5b08-4575-9b45-ee80adf1f034",
+        "price": 66.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a6cb4bf5-f7c7-4bcd-9b94-9869020939f3",
+        "price": 16.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "031b2e75-e7b2-4196-911e-62542824600a",
+        "price": 39.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d7fe1481-a1c0-4b6d-a13a-ec92010df6f2",
+        "price": 31.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "fb210c21-ff47-44a4-8fa0-3f4e831c1bdb",
+        "price": 58.72
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8077e01b-bda4-447a-8ef3-f3a978152656",
+        "price": 15.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e1bc6c1b-7926-4bc4-9e9a-7ab936b96831",
+        "price": 31.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "35de2d41-f4bf-4adf-b9a1-ba7a036da2e9",
+        "price": 81.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1bb674a8-7885-4e15-90a1-04350695ce5b",
+        "price": 88.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "227acaa7-d92e-4c83-a93d-9fde07614e7b",
+        "price": 66.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e9494acb-1b47-47bd-9d13-b17aa38cea9a",
+        "price": 58.84
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "00f57989-34ae-4124-bcee-e9e1fd7bb32f",
+        "price": 44.28
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "bab9706d-8d9e-4153-8f2d-ace1c156ff77",
+        "price": 29.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d91bbc27-c3b9-4959-acf6-301693fa1dff",
+        "price": 63.98
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "268b2a29-a68c-42e6-8dc5-a7f8780e4396",
+        "price": 58.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0bfd8525-df10-40bc-b811-cace89f66b58",
+        "price": 83.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4dcd3be3-c1cb-49d3-ab9e-77759cb50c2f",
+        "price": 24.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8b451f5d-1677-4068-a17c-5bbd3a2fe5a2",
+        "price": 94.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2a5239c9-df75-4c57-98b8-522a53ec82b1",
+        "price": 30.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "10fb7421-3b9d-48da-b253-77810f2cc4b7",
+        "price": 13.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "12bfeba6-3678-4a92-9e31-4b1eedf164ab",
+        "price": 86.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a58bb9a4-d8f7-40fa-81ec-6201d1da1789",
+        "price": 19.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9f8b0926-67c5-483f-939b-3651773edc8c",
+        "price": 21.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "be56f583-d5cc-48d0-b18b-2a09305a4f0b",
+        "price": 74.74
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "875598cd-1178-44d8-9906-670f705361d8",
+        "price": 31.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7a5981fa-c11b-435d-a4da-53077dc405e6",
+        "price": 41.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "54f8484b-f202-4364-9b96-5a6111c26c99",
+        "price": 34.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6ce845f0-3534-4619-a04c-73acf020f2ee",
+        "price": 45.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "94235d34-42f1-416d-b174-91a713b0bbb1",
+        "price": 13.28
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cb41735d-b92f-4d03-9d0b-085b20ffff0e",
+        "price": 70.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3a558f8c-8382-4257-9752-0f60a0c7b54f",
+        "price": 51.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "04260751-c28a-4340-a512-d754859fde7f",
+        "price": 83.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "abc74ae2-ee7d-4bba-a57a-60f9bacaec1d",
+        "price": 34.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "fdfe50da-ac7a-4071-acb9-f4c40bd8c346",
+        "price": 14.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ed7ce93e-46ad-4f46-a208-fa6f526cef12",
+        "price": 24.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "002f8980-196e-48f9-901a-422e4ffc3bd5",
+        "price": 20.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c77430ec-0318-4e9a-8990-a1d252e8e44c",
+        "price": 92.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a80fe69a-46ed-43c4-9b64-874a1c8410bf",
+        "price": 59.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b78063e9-9db4-47ea-896f-0f49c11c00bb",
+        "price": 28.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d1f6745b-bfb4-4ccb-af96-96839ed12bb7",
+        "price": 81.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ee4a7af5-aa7b-40b9-85a7-1b9d63c37646",
+        "price": 45.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2216c437-97b5-4ae4-bbf7-3b09d0775b49",
+        "price": 77.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4e30267a-5f49-4b35-bcdf-d8a9fba4a8d0",
+        "price": 63.15
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "42849e45-9162-4ecf-8144-22acee35b43d",
+        "price": 31.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d1df9378-0bd1-4c2e-8a2b-9885ade81779",
+        "price": 66.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4cf09c40-28ba-4a23-98d8-1495edb9b3f8",
+        "price": 65.31
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "84b60956-1f9d-47ed-b4fc-e26ed932a604",
+        "price": 20.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e709d376-1412-49aa-99c6-b3a4218eebcf",
+        "price": 93.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e2943091-17a1-47e0-96db-e60bffec875b",
+        "price": 73.24
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0fd5727b-b757-4ea1-9cc3-dc8dca38679b",
+        "price": 83.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "85112b58-85da-4ba8-b964-6c9ead0a8c9c",
+        "price": 39.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "da13829d-d40f-4f2d-8e61-c94abaf21bc3",
+        "price": 83.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ec9f023a-03c3-470f-affc-5309daa7f49a",
+        "price": 73.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1c3785f8-62e9-4fc7-8e6b-974a647bd9a3",
+        "price": 79.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e35fb860-3703-480b-9523-0a61dd3e5c78",
+        "price": 72.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "778fa965-7492-4fe6-b9c5-b8e3b9ca2800",
+        "price": 72.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "da98845c-7ac3-4d70-ab5e-d29cfa4a05bc",
+        "price": 67.1
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b6f2e3a3-332b-4e80-84f1-7de91dd4d099",
+        "price": 76.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "65819012-5f4a-49a7-9a79-936890628d86",
+        "price": 34.21
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7e502853-9462-41e5-8597-f2f2ec34b3f8",
+        "price": 79.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1a0ae311-7b80-4aae-b479-be9744cba86a",
+        "price": 85.15
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6cf73040-7f3e-43fa-b5a4-4569500246ee",
+        "price": 52.29
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "94d780bc-6dee-41a4-9919-f1d55a33170f",
+        "price": 40.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "20fb559d-1a8b-4874-be94-df4f86cfcd15",
+        "price": 32.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "99bf7b9d-0325-4375-87de-4015e806fbf0",
+        "price": 67.28
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "763502f3-de2b-4c02-9ada-c02d572898eb",
+        "price": 10.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d0cf242d-6f9f-49b1-86cc-95bbb1ca93da",
+        "price": 86.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3b1c6d84-70f0-470d-916a-5d0ae8f38129",
+        "price": 66.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f4b839b0-078c-46a8-a3bc-03847293f4c4",
+        "price": 59.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "64e09a13-81af-4462-8179-caadd4c79873",
+        "price": 71.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0c7fb03c-73a5-4a3b-9310-da4a4e2ff60c",
+        "price": 20.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "75c41d96-2d70-49d0-81d4-3054b898d227",
+        "price": 23.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9739995f-b643-41c4-8cc2-bf0a445915d6",
+        "price": 74.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3b3e88f0-8201-45ce-8315-4b48f85d69c1",
+        "price": 52.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2dd9006d-eac6-4208-b5c5-4ff665002e36",
+        "price": 20.46
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "19957d05-ab94-4179-aaf3-15918d780719",
+        "price": 91.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4c41571b-c7b3-462c-a43e-98e43d4c8b93",
+        "price": 39.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "128534c9-a27e-40d1-8269-1b4ac305400d",
+        "price": 56.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "59d68d1c-049f-42f8-be0a-37eda211b84e",
+        "price": 70.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "49b016e0-0e9a-4564-a445-493573820051",
+        "price": 84
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b1e73dfb-de05-473e-9407-572a00e3e9a4",
+        "price": 31.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "83759e87-425c-4101-bc4d-6f8dcad47b18",
+        "price": 97.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5916860f-1c8e-4f4e-8f9e-5df631bc2397",
+        "price": 55.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6d619931-b460-44ec-bb81-2104021932f7",
+        "price": 79.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "df86e125-2d84-4150-9540-89dd87fc8fd4",
+        "price": 70.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "45f5ece7-e941-492a-811f-45b73c1dbf72",
+        "price": 52.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "febf190d-75df-4ef6-bc45-e5d6103827a6",
+        "price": 59.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e37591ba-d960-4075-96ea-01a6ac1a3701",
+        "price": 78.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "57ee2e72-f8e0-44e4-a018-0bebb6a55a21",
+        "price": 48.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a85d5c8b-1969-42e6-8923-ff17d96cf74a",
+        "price": 67.1
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c71105d0-823e-485b-a0f8-8aeaaef375fe",
+        "price": 58.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "16260140-acfd-48ab-9482-edb13b68de40",
+        "price": 79.27
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "22439821-de16-4b24-bb9a-b089e9160ed2",
+        "price": 80.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8ebc985f-7ed4-41b7-88d1-3b79cd14be02",
+        "price": 89.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3aadaec3-4ef3-44ca-8616-234d244bbf66",
+        "price": 99.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c82fbe3e-eb6d-45a7-b335-70278b804a96",
+        "price": 70.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d116b5ad-4c5f-4f57-942d-f4a69297cc77",
+        "price": 44.28
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c8dd8a9c-70aa-4454-bae3-c8bb8a9bd389",
+        "price": 17.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "22f0b560-46df-4898-bb7c-10494039855f",
+        "price": 10.21
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b253521f-f873-4ded-8ee9-5e5171672119",
+        "price": 25.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "296655f9-88ec-4bb7-bd0c-6737c81f0c1a",
+        "price": 90.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "93bab2e7-1911-4fe5-97cc-3f2330e0d817",
+        "price": 97.99
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "70c381c5-3cb1-4d0a-ac6a-98175eadb166",
+        "price": 43.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "46ad78f9-cb49-4a4c-8090-6ca70702aaef",
+        "price": 44.71
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b4143b16-4026-447a-bff8-87d4c7e7479c",
+        "price": 66.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d86cf016-e8ee-4130-a2ea-8e887955e5b9",
+        "price": 43.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "50fc2f9e-e54c-4080-8ccf-ce69238117ae",
+        "price": 29.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "94b877aa-8dee-46db-bc73-e60676da8fb3",
+        "price": 16.34
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "640e4fd6-ab34-432f-a4bc-8f160d1d7849",
+        "price": 56.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "df0cff30-3d80-4015-a719-a5685fe20df0",
+        "price": 94.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f58421c8-8eaf-4d7a-9114-226e11a8180e",
+        "price": 80.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7756b72d-7b40-4fda-ad7c-19b72bd05918",
+        "price": 22.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "49e20ff7-fab7-44eb-88cf-d6e26f765f9f",
+        "price": 87.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7522a0cd-5abd-446d-89f6-1e9178aec15b",
+        "price": 80.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6d9b8e42-fdee-444e-9ddb-e732dd3b5a19",
+        "price": 79.73
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "99a4a516-19b1-41bf-b1e3-39d8821e1d15",
+        "price": 33.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "bf7f40ff-3676-4486-8481-70dae32c9222",
+        "price": 61.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8a170ab2-1a39-4ce2-b750-3d28b9790622",
+        "price": 46.97
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c191922a-207c-4881-b7e4-8d9cc1f63e49",
+        "price": 93.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6eb9f21e-e469-4d81-8bd3-2ecf9344b3b4",
+        "price": 69.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6b3ec23b-85f2-4cb4-b8ce-61e9113f05fe",
+        "price": 47.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e85850a2-4d4f-427e-abf4-0187c8c47b08",
+        "price": 28.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "51ed347a-7072-4f89-a68d-a87ef1ef0720",
+        "price": 54.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f1da1692-38ee-4e00-8da3-4d0bdf099b60",
+        "price": 33.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "48818101-9fc4-41ff-8142-6f4f9ca5f3e4",
+        "price": 15.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1fb43c21-a8d4-4aab-a735-0369cde83920",
+        "price": 71.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b29e4cbb-d0bc-4883-8f71-19dab985c79c",
+        "price": 66.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c692fd5c-c09e-4973-becd-34ef0f0f3674",
+        "price": 14.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ef590265-29cf-45c0-9417-7dddeb6a0f59",
+        "price": 68.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a3e687e7-63df-4e47-8a6b-93bd81123093",
+        "price": 31.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1d5b2560-748f-4de3-8fab-e3a6a769de1a",
+        "price": 43.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9a21afff-6fb1-4ff7-8959-d18803827f76",
+        "price": 15.87
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "717288aa-4bd3-41ff-bc00-2dba14ac509b",
+        "price": 75.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2511e794-9402-40f1-9e58-10c1f33186ed",
+        "price": 19.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "52889f94-14db-4c5a-9e21-595af9a0cf39",
+        "price": 96.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6a0afcda-29c5-48c5-b283-5c000fec1613",
+        "price": 10.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "fd5bd488-042c-4e3f-a03d-be3496bfc5c7",
+        "price": 17.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "edebc8a3-bd8b-417b-adf6-ad2d1dfec1ed",
+        "price": 81.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "fd29d24e-faa3-4bc3-ad24-8b5d1c1a4d54",
+        "price": 66.45
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8a726454-54ce-472a-92ec-a2af6ca0d527",
+        "price": 62.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a08ef211-d996-483b-a63d-c8279261ed23",
+        "price": 86.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "06d04bea-b522-495d-9b80-a67866dcf241",
+        "price": 81.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2324b571-edf4-43ef-815f-1dbdc81fcb5c",
+        "price": 82.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1c9f3a7a-2e24-4199-95d9-aeb4cbd50484",
+        "price": 79.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "820acbfd-13a8-4043-b16d-3fd18a5d32ed",
+        "price": 94.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b6952a9f-9d22-458f-8052-0e9a94b07e0b",
+        "price": 31.21
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d02e8ea8-191a-45b7-9593-a96663cceac7",
+        "price": 11.56
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f187e6f0-62ae-49e3-b273-0f47c25cbffc",
+        "price": 53.64
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "53ac9b66-b4dd-4ac6-b07e-fd979d9195bc",
+        "price": 75.58
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "38ae3bf5-b7ee-44a8-a0fc-5b5d021c8a79",
+        "price": 60.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "01e30649-6dfc-4246-bc0b-54d04fea6699",
+        "price": 21.45
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b7449156-2633-4bc6-a846-726e694572fa",
+        "price": 81.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ca160e1b-388c-4f91-aa0d-4206d079d937",
+        "price": 53.15
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "69ddc5b5-1600-4f79-b048-8cb310347349",
+        "price": 92.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "36653add-07b4-4f5a-8cdb-8f6fdb343640",
+        "price": 89.24
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ee9f2e89-0138-46fb-92d4-25230642651f",
+        "price": 74.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "314fa286-2cdb-4596-85c5-9b8a497732df",
+        "price": 60.46
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6cd365ee-1bcd-417a-962f-7a02ce8a24cf",
+        "price": 15.29
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e51e4493-b059-4a6e-b386-06eda77e553b",
+        "price": 89.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "adaea9b0-ce9a-43e5-b671-273335665abb",
+        "price": 17.84
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "905c869a-12ca-4a59-928b-cad72424a6be",
+        "price": 39.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e3770c4c-0423-4ebd-9766-5c9b1af8c720",
+        "price": 16.35
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2fab66c0-f574-45d1-81a4-5d3cacc5b586",
+        "price": 90.97
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cde31ff5-d3d9-436b-a975-43d9fe867555",
+        "price": 99.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "89fe3b28-1ecc-401a-94f6-f632f25367a9",
+        "price": 10.87
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b5d91dad-8f6c-4813-b50c-dc935a6a7f5f",
+        "price": 90.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5492f845-9426-4e4a-ac39-5047be2d1f2f",
+        "price": 60.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f591a4ee-53c4-4090-992a-17e3b6001a47",
+        "price": 32.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3865cbcc-17d0-4bb7-a517-0b845246ffed",
+        "price": 30.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "56c1442d-43c8-4f57-b582-e23cb0a72270",
+        "price": 30.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "266f2c91-9e90-4a6f-b258-89a7f6ab4b69",
+        "price": 30.98
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "45b84d57-fca4-4f77-bc2e-996258df211c",
+        "price": 52.56
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0af1abaa-44e4-4562-b50d-77fbec330716",
+        "price": 54.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f7b67e75-ec09-4102-866a-1af1b2845141",
+        "price": 44.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b41ef9c0-24d4-4d4e-8dce-22fe7e0fec18",
+        "price": 81.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9bd9e4bd-7843-4816-bc77-0b0a8dff1d87",
+        "price": 88.56
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3727c2b8-482f-4a21-b310-e3926493cf37",
+        "price": 34.34
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "51407595-63dd-4a8b-a6cd-a93087f7e1ea",
+        "price": 50.5
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3174eb8b-6b77-4995-a9d8-c9cc2d3fb728",
+        "price": 18.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f90ec091-fa9b-454d-838e-0c52118e0292",
+        "price": 87.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a8c48f6d-d04d-4e35-bc39-dd96eada4f89",
+        "price": 73.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "56228c59-0fdf-42b8-92cf-cc1ae20bbcf5",
+        "price": 13.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "bb241774-3474-45e2-85b4-b755e2122a05",
+        "price": 73.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "45abe2eb-6410-4314-8c78-e10729f2cf94",
+        "price": 44.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a5833851-08be-48f0-9d8f-f6dd8c769d84",
+        "price": 99.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b5b079b4-6897-4f6e-8300-1d45e0d6b1b1",
+        "price": 97.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b2bfaa0a-9ee0-4f20-928f-ba547c3a5b49",
+        "price": 80.78
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2f3df04b-3ef8-4968-8f54-09736f91fd61",
+        "price": 82.98
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3a12630e-5795-43a5-a13f-e2499e80b188",
+        "price": 50.69
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "323e45b8-c707-451f-913c-eb13b01dcdd9",
+        "price": 76.67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "96b5fa90-6e86-4545-96a0-e2bc161f89df",
+        "price": 31.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b5cf7795-4ed5-4e75-99cc-d978e8472431",
+        "price": 94.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a62a3be4-cf8c-4c85-9b7b-1c7b3ff06cf5",
+        "price": 27.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4e73262b-0dca-4bb9-a375-d117a0d84198",
+        "price": 84.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c9b981ee-73d1-4ae5-8ec6-57c47936d6e3",
+        "price": 79.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "df2a4dbe-c7f5-49a9-b2aa-fe685a2c7fdc",
+        "price": 64.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4f6030de-407e-42b8-9fa4-ff16e051bfd9",
+        "price": 97.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c05c07d2-5429-44ed-9d67-013850a43588",
+        "price": 70.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f2b8e797-5098-404a-aab3-68d12a441e19",
+        "price": 65.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8d4cae77-6608-4629-9332-03d74355d3b6",
+        "price": 99.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "917b12d1-ac86-47e7-92a9-129f909036a5",
+        "price": 84.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "94706cd8-c46b-44cb-ac41-e551fd88dbf5",
+        "price": 16.53
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "993e2ca3-0042-4425-9495-08aef572633a",
+        "price": 98.32
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "40ca13ea-c916-429a-b738-986f3d934fe1",
+        "price": 10.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "28ba766e-8ed0-40bc-9000-71de8621fcd2",
+        "price": 31.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8effb1e6-f295-46e7-85ee-fd72ce24cfcf",
+        "price": 27.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "bd36dd98-746a-4e56-a98d-00e6e9cbbece",
+        "price": 24.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0a2584ea-4998-4e22-9360-1509719eb93d",
+        "price": 41.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8bbab90c-a329-409a-b88c-4bd2607a9b27",
+        "price": 24.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "79d1cb8f-019d-4d07-a13f-15e7d2ace9aa",
+        "price": 58.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a5921299-2878-4469-9568-c133e0b44713",
+        "price": 69.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "03d1ea63-92d9-4cfe-a7b8-789a1f67b769",
+        "price": 22.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "53aee925-608a-4992-88e4-28e1e7702bc0",
+        "price": 29.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "339da0f3-8642-49b1-9c55-e0f5c1ebd15e",
+        "price": 65.63
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "daa18693-d260-4a04-ba87-57ab52871acd",
+        "price": 46.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4516598c-fabe-4107-9b70-b5ea582bbff2",
+        "price": 66.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5cb8b853-13a8-4e18-91df-950004f6ce3c",
+        "price": 63.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6e4d25f4-2764-4bd4-aada-96e2f32972b5",
+        "price": 48.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "af428861-b9ac-4c6d-840c-4a20daac487a",
+        "price": 33.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5b599e2a-9be8-4525-94f2-d0b6280d6d5e",
+        "price": 82.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "00c298f4-364a-443a-a0e5-96fbf894c61e",
+        "price": 10.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "df55c0aa-b50f-4dc2-87f6-7884150aeaa5",
+        "price": 60.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d307783f-5d21-479a-8d10-41f4a1416130",
+        "price": 36.61
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "41370016-1965-4f2e-b54e-d4c949dc8e1a",
+        "price": 59.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d2ad8b02-3d98-4631-9722-83970eaf7ec7",
+        "price": 79.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "50ba3c81-0fa6-4eb5-9413-10dc677cf948",
+        "price": 63.84
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a8dfb932-b50c-41a4-a17a-e3d1c3e97112",
+        "price": 31.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e4055328-be5d-45d2-b798-040af920157a",
+        "price": 40.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "043ecb14-763e-4dca-9f06-67126bd3cd81",
+        "price": 90.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "bed88942-6685-42fe-ac50-bfe3fd156669",
+        "price": 41.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "aac95d63-93a5-472a-bb65-af9e8791d70c",
+        "price": 52.56
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2256ad1a-d7d4-42cf-b419-54a173caa71e",
+        "price": 95.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "68022bb6-e6f4-43b7-afa0-a9b484d38735",
+        "price": 91.28
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4d4b3c37-33b8-470f-b550-a832d0a309be",
+        "price": 54.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d1d13b6c-d338-4d2f-84d1-f5ee9d0b55cc",
+        "price": 22.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "05fa7bc6-b530-4d0d-a9bc-ac7d2d3f7e2b",
+        "price": 59.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cc77a3da-2516-41f7-8f4f-28062a71ed3a",
+        "price": 84.34
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "549aaf14-57cf-4cd9-8fe4-63c9527ce9b7",
+        "price": 11.71
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6b61a326-eb4a-4a88-badc-3eeef6fc98db",
+        "price": 60.59
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ff90b6aa-f67b-4809-9c25-c0603477328b",
+        "price": 10.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b060c27d-d3b7-45d4-95bd-8b16a65fd213",
+        "price": 15.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ba660730-ca85-4863-bb8e-5ce7cbeb1d1b",
+        "price": 86.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "18e860ed-bd6b-4a5e-bfc7-368842e61dba",
+        "price": 48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9c48d586-7eb1-45fc-a9d2-60164685c900",
+        "price": 83.24
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c2eb7aac-0d0c-4ddb-a766-20bf3229505d",
+        "price": 72.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "19503237-da3b-492f-a275-ad2c0911961e",
+        "price": 52.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "61ce4458-3615-4f38-a5ce-ed425f8931ba",
+        "price": 20.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e3da5bf0-81c5-4d6a-a164-74a15c77cfcb",
+        "price": 24.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e72fad4e-e09b-41f6-834c-0b1f85d2ff8d",
+        "price": 42.84
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "35c2ccc6-f542-41f4-8e08-0d7c07f6daec",
+        "price": 20.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "22acfd8c-f31e-41ee-bf3e-be286b2c4184",
+        "price": 65.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6e208342-105f-4b11-b21c-32a3a17f984a",
+        "price": 82.05
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ad6efe7d-15da-49c8-ae97-72c4076a9396",
+        "price": 89.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0d17321d-3022-436a-ae13-31d84cc42065",
+        "price": 27.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ccb19027-8f96-4c07-ab16-0f9eeee33197",
+        "price": 47.35
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c18b25a4-3a8a-4e60-a7cd-1492bdaa82fb",
+        "price": 35.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "25cbc1f5-a989-4cac-b9de-241fcdf69cf0",
+        "price": 23.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0a7d27e8-404d-4eed-836a-c2a5141d97c2",
+        "price": 45.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "320f0cc6-65bb-4b51-a567-bd841f0e99ba",
+        "price": 15.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7ebc86d9-abc3-482b-9235-b343ac367ade",
+        "price": 36.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "910e7e9e-4101-42a9-8dce-bc15ab5005b3",
+        "price": 21.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "50946cfe-b7e2-45d3-80e9-f90efa219d9c",
+        "price": 15.59
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a0f7083f-294e-47f1-9904-66aa731b8754",
+        "price": 11.93
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c8107652-06f4-40d1-881a-5d5ccb28dda9",
+        "price": 54.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a01debcd-14f4-4273-9b08-f253d3839a7c",
+        "price": 71.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3a0c82c4-33e7-42bd-9982-0dbbc36d7381",
+        "price": 26.53
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "19bd2147-78a4-45fa-975f-ddaf2244781e",
+        "price": 55.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "285d3056-56c0-47fd-9dba-0b42e5dcfb4c",
+        "price": 18.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "18c93cca-190d-434f-9174-59be585241a7",
+        "price": 46.67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "bb0fae67-7fc1-4f71-bc07-6c99f3baf813",
+        "price": 76.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "fabd75c0-ba8e-4c6d-a162-7b5a421759fa",
+        "price": 57.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "97ae01ee-2804-49a0-94ca-0e0151998290",
+        "price": 17.21
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4c617892-d0f2-471d-a5b7-7898b23da3f2",
+        "price": 86.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "11d6ca12-59db-4d5a-b639-2f082516986e",
+        "price": 98.21
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "20c5ceae-12af-472f-a398-88f122e8f521",
+        "price": 60.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d0d2c7ea-5d4c-40f3-92f2-6fa1710841b4",
+        "price": 83.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d42a572f-af22-4163-b1e2-89271c8eb967",
+        "price": 33.42
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1e362602-585b-4ee7-a667-775e4890fb50",
+        "price": 90.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e739be65-04a6-4d44-ac6f-e8ba7dc1a464",
+        "price": 56.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a26926f8-3e51-427d-aed9-1b2e7e6f59b5",
+        "price": 58.67
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ada3a436-8e86-45c2-903a-d51142a774cf",
+        "price": 43.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b911d310-869c-4683-b500-e6eb186b9683",
+        "price": 80.71
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "179c4950-e3c7-4b13-b0ae-6048232434e8",
+        "price": 95.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2bd75f5b-08c0-4457-9551-82fd268101f8",
+        "price": 12.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1fc0d374-4d0a-4534-933e-8604c14e4b2b",
+        "price": 93.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "57d73afa-13b5-4c25-b4fb-9c78ea9c811b",
+        "price": 63.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1c67a831-370f-4190-89c7-53c35f2270f4",
+        "price": 44.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "77a7a9fc-f0d1-4680-b8fc-c10cfe5ce2f7",
+        "price": 13.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cabd732f-e37b-40ca-82fb-b6d4b3081f17",
+        "price": 74.85
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4f6f9e6a-a378-4b9d-a46c-8ca1b8275282",
+        "price": 52.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4fda01f3-e371-4697-a8a8-458879706bf9",
+        "price": 91.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "77d72ad1-521f-46cd-b468-71bdf98ef542",
+        "price": 52.82
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "81549cd0-636b-4072-a2ec-237ad247d6b6",
+        "price": 79.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3f6acb3c-985b-4d20-b379-f77931cbb819",
+        "price": 20.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1aa65862-fee9-404a-9003-3dc396390a36",
+        "price": 61.26
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "dd1cb22e-c177-4b6f-9bf9-915a7ec45bff",
+        "price": 89.81
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4b66c4c9-27f0-4dda-bbb7-d9402294c8f5",
+        "price": 58.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "573298b1-6d97-4d3c-bfaf-855fbc6eb3ca",
+        "price": 99.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "87d1b1b0-a3e6-4a12-b7f3-d77e49916f11",
+        "price": 44.31
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9e3ed5c9-8765-4b74-8046-f3a7c0dcab1e",
+        "price": 78.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f8e5546f-dd37-4703-b6a0-b588161c873a",
+        "price": 87.93
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a0acdb88-8cec-41ce-a4d2-c0c5095a3aec",
+        "price": 66.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f4c249bb-3810-47cd-a449-ed459e8709e4",
+        "price": 48.61
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "005ee864-59ae-4bf1-adb0-3ae580d472d6",
+        "price": 15.39
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "756ccc61-88e2-4970-a7bb-eb908eb0298e",
+        "price": 59.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "42564205-d5e1-45d8-a26f-e201398b1d4d",
+        "price": 96.54
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0baea316-7917-46b0-924e-d0a2db10755f",
+        "price": 40.29
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "80a6c991-0859-424e-98b4-d9fe9c58c03f",
+        "price": 81.15
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b3bba941-b3d9-4814-9911-d75a1b67a87c",
+        "price": 28.42
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "143c1c99-c22b-49cd-8db2-c76ff2d7bc50",
+        "price": 49.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9512152f-05b6-4240-816f-d746af762c47",
+        "price": 30.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3e934d43-8554-4d24-8a2b-0584d02bfee1",
+        "price": 95.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "18f2b266-e29e-495e-8158-1d77439d4616",
+        "price": 37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c85fa1c3-8aa9-4aa2-bf2f-aa6e0010699d",
+        "price": 21.98
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2b2f8a6d-ac1b-4157-ac4d-25b90d994975",
+        "price": 32.84
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3dc22cae-42a9-45ff-b50b-c336f6c9031b",
+        "price": 25.74
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "49af3291-0192-4386-ac3d-ebeea6a52d20",
+        "price": 65.57
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "db8dc371-a4b3-49b3-b07e-7c212b76fc15",
+        "price": 95.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "73c6f853-6971-40da-961b-962cdadb865f",
+        "price": 97.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "68706cce-138f-43b7-99be-762991207310",
+        "price": 92.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d58488c8-811f-4fdd-bfb5-f7417afb5191",
+        "price": 68.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "12189b89-88c9-4eb7-8ec5-2ce6a4617ceb",
+        "price": 98.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ba8bd248-3437-470d-b244-9b00c2beba97",
+        "price": 16.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "aeabc326-d7c9-47cd-a463-65cac18f8c7e",
+        "price": 99.29
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9daf6248-c46d-4331-9a9e-c0a0665e5cda",
+        "price": 86.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b1930d09-1eb5-4373-abe9-fa671ffbc0e2",
+        "price": 37.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e8e25003-9bf8-432a-81dd-fd6cdb11c422",
+        "price": 91.91
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b57ce961-5754-4329-8181-85bfbf74fd24",
+        "price": 45
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f9e95298-c989-442c-810a-774d35a5bbc6",
+        "price": 14.15
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c0bd86b1-428b-421e-9fdb-c35b17975f82",
+        "price": 19.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3e0c06a2-9268-436d-bb98-f9c88b030fb8",
+        "price": 84.27
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3f5eda86-c053-404d-95e1-6ff3fd5480bd",
+        "price": 12.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ad154b12-f148-4d09-922e-5e8aefd02373",
+        "price": 42.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b0fbee5a-c394-4174-9184-b0a8c03621f5",
+        "price": 83.78
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "74674438-9650-407f-a387-c55dac1e45d1",
+        "price": 80.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a258597f-a232-4809-8033-b20a5b4eea5e",
+        "price": 64.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c80b695f-b2c9-4e67-82a1-91d6b8255e65",
+        "price": 79.12
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cba03408-b66d-4129-a26c-dbdac59a0766",
+        "price": 33.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "470f4308-cb32-49c3-a373-b9522f219790",
+        "price": 42.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6f5d39dc-4355-4cb8-862d-ddbb5fa26a29",
+        "price": 73.59
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7da3a49e-74c6-45c4-ba21-c3ff8c84c2c7",
+        "price": 23.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f7b71706-b701-43e0-8082-2bc7829d0404",
+        "price": 80.15
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "52711f47-b540-4c7b-9592-5b441fc77465",
+        "price": 52.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e7a7b37b-f897-4da2-8fee-24ab1f7337de",
+        "price": 27.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8a55a39e-9f0e-40fb-9aa2-be431b74a7de",
+        "price": 47.43
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "00ba573d-e51b-4ae0-b02c-c5cfef5122f2",
+        "price": 67.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7a1fc56f-e64b-44dd-b2b6-bedfd1d3d776",
+        "price": 76.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c0fd71c4-bca7-45b6-92b1-69486dad1297",
+        "price": 26.43
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d84b133e-ef76-42a2-a885-4b12b3442d69",
+        "price": 48.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b017fb66-7faa-4dad-81bb-5a9ca2634482",
+        "price": 36.46
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "328f19fd-b055-4765-b0b9-e3526d44da29",
+        "price": 11.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f63341e0-7604-49bb-9f06-7d2c34ca6a7b",
+        "price": 89.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a7cbb797-444f-4971-9be4-11a5ed6fb975",
+        "price": 34.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5d18a594-1b56-4d1b-a509-138b05342eba",
+        "price": 97.59
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e083a326-7e63-45b2-a8eb-00b3b6fd0202",
+        "price": 92.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d662e7aa-8901-493f-90cd-3325cb36bfa0",
+        "price": 96.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cd3e87a7-eb4a-4f52-aa80-6c1c9fae2f0b",
+        "price": 46.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "67ec4b38-887f-4067-aeb9-f141ae6843a5",
+        "price": 22.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "018bb3df-6ac1-45ce-bd3b-befb79fca2b7",
+        "price": 80.16
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d859dfc8-1cef-4d9b-ae06-ccae4840cd2d",
+        "price": 31.92
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "62f1ae3f-0aab-4a0f-95ea-5b488acffa35",
+        "price": 59.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "252a9ac2-fbea-4058-ac49-01e32b9b1123",
+        "price": 91.61
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4c7f744f-fa62-42cc-8c4f-2c186a5a757c",
+        "price": 86.74
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b1c694a6-8187-496c-8e49-f613a4abfc89",
+        "price": 74.7
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "bdc5850d-6d71-4c8c-a9cf-37d9c98a37a6",
+        "price": 29.77
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4c691f7d-798c-428b-8330-9224e51c5319",
+        "price": 98.45
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "fb4d9508-5909-4ec7-8a35-ef6d376adc94",
+        "price": 49.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f4643738-8b84-43f2-b573-911595500330",
+        "price": 24.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "590531b0-d5e0-427b-96aa-5f19aa050d61",
+        "price": 39.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1f271986-fab7-47b6-ae9a-9700b8c5a0d9",
+        "price": 23.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "297163f4-89f6-406c-b4fa-b34233f34a39",
+        "price": 28.36
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "92abbb80-2a62-4d24-a863-3a3d6270b051",
+        "price": 64.38
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9e4aa91b-7a92-498a-b562-e93645234de0",
+        "price": 73.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9d3c1ca9-c2ba-48cc-b31a-531f7d2c7ce6",
+        "price": 40.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6c9c79c5-74f0-4f97-bbb5-27c88791f1cc",
+        "price": 87.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "85d5f79d-66d7-44b2-b986-6b6b4c6fa327",
+        "price": 30.41
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8937988f-abb7-42c6-8868-0c7d218878e6",
+        "price": 74.89
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d4a0417a-a989-4c2e-b394-b33e276b90ae",
+        "price": 58.84
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f9e069b8-64ca-49ec-906e-c1108d409eef",
+        "price": 18.13
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "94fff29a-bdf1-4fdd-9e8c-57fa517ffa9b",
+        "price": 84.53
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1ac0d29e-a2a9-44a6-af4e-b156ef0379d3",
+        "price": 97.48
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "51539d6b-8753-44f3-84a4-4a3a0ebe90c3",
+        "price": 84.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "00040fa5-1cb4-439d-92f1-d541140b748f",
+        "price": 14.52
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8f1ba953-945e-4160-adcc-effdce5f165d",
+        "price": 66.27
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d1e62842-aca5-451c-b9c5-bd466acbcc2e",
+        "price": 24.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0b0fb620-2257-40ab-b09b-3cabeba6464f",
+        "price": 66.61
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7d5a456f-692b-4019-980a-d3fa9c12186d",
+        "price": 79.72
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7486caf8-278b-40fe-b4bb-7b3489556f8b",
+        "price": 81.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5e60440c-a378-4a39-848e-0fa324ef8f42",
+        "price": 19.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "012237f4-aed3-4fd6-860a-d2fe5026aadb",
+        "price": 19.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "afc9a8aa-caf2-48c2-bac0-c72f44fd6c82",
+        "price": 77.18
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d6a2611b-f08a-45d8-9daa-8fd0c6eaf087",
+        "price": 18.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5b6bce6d-f030-4561-a045-8d35ac83f455",
+        "price": 93.6
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "8fd6386f-c69b-4321-919e-d9abc8a205c1",
+        "price": 33.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7a66b7dd-b289-4182-ab06-e2180670f726",
+        "price": 72.83
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e54a4339-43ef-43e8-ae1f-caddcc53433c",
+        "price": 95.61
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f51c14ab-1b27-4810-8a6a-e91b620d9747",
+        "price": 30.75
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "47b50dc1-93a8-4c73-8945-d4b1e6272cb5",
+        "price": 22.26
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b60a5a7b-2efa-413b-8030-9435aca51073",
+        "price": 27.4
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "0628a26a-48a6-44d0-80ed-fb87664067ff",
+        "price": 44.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "49990b69-6cca-40b9-8f4f-a7d31ae6b1a1",
+        "price": 56.17
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e18851de-8a99-448a-ad5b-e5f79b874996",
+        "price": 62.66
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "dc53730a-8ee6-45a5-a00d-b613ca486f95",
+        "price": 29.31
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e7381e6f-58b3-4170-ac03-7a2091d4a10a",
+        "price": 54.62
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2b86d24b-fcb5-4ef5-9c2d-3135f7ced362",
+        "price": 14.22
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "45c59186-cffd-4e12-a5a2-085a659418c3",
+        "price": 47.47
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e8e763c5-9f02-450f-8ac9-29ee284eeac2",
+        "price": 25.68
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "e5f79693-9024-4fbe-b5b3-5228e7d5a090",
+        "price": 95.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "dcecf7e8-1cc7-4c9b-b806-940120c53201",
+        "price": 42.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c60b175c-d128-44b0-9264-114129b5d0a5",
+        "price": 67.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4a53c7aa-2be7-456f-9c30-10e1ddcf4d6f",
+        "price": 71.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "31c0405d-adb3-4021-8c47-d1233e33bf70",
+        "price": 69.51
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c2db16ff-425b-4005-a5a0-43f6d6449a06",
+        "price": 48.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "54fe4c83-3334-4c67-9e30-37f43e02c5ac",
+        "price": 72.88
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "bc79b2c1-7edc-43b2-8b48-fa0c8050e999",
+        "price": 85.08
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "a4d308d6-4bc0-4f0f-b1e8-df69aeb64dfc",
+        "price": 52.26
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "1b7984c6-6712-4e87-9a43-f1217598c4c7",
+        "price": 22.23
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ef717e34-a35f-4dcc-b78b-d8a051ebd1f9",
+        "price": 47.98
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cee3ed78-e209-4a2e-80db-d9c8123ce1d6",
+        "price": 58.59
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "21e9d8ac-e43d-42eb-9703-a59992ac6329",
+        "price": 55.24
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "235bffde-e1da-48af-86ac-698eb0a91d3d",
+        "price": 18.37
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4ab1fce0-f6fa-4120-92e8-34852fed6e2d",
+        "price": 28.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "64420c60-f88b-4571-98b4-9a74031fd989",
+        "price": 19.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2df0d044-4fe5-4697-8462-88fe7aca8d09",
+        "price": 28.66
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "13cfafef-d4e9-4705-ac64-d09339cf600b",
+        "price": 26.55
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "f3219f48-03f1-4cef-84ae-9aa8f4899bc9",
+        "price": 70.46
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d5ccfdc1-76ed-4de5-881b-48676178cdf2",
+        "price": 42.02
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "dd36073c-7bcb-4254-8460-26f0695d7c62",
+        "price": 27.78
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d5c7388e-baba-4ec2-8d2b-049432d29f32",
+        "price": 67.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cc40de25-e7a8-4f32-ac09-3f15c64f8ec3",
+        "price": 38.19
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7c51451e-b5d3-403c-a49d-b4a553db86dd",
+        "price": 15.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "db63596e-9dd0-4931-8996-cdba349d8561",
+        "price": 75.14
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "5f33df57-1bb6-4d51-8b54-3100674f748c",
+        "price": 30.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "6641ab87-31af-4fe5-8ef5-ef61a34c37cd",
+        "price": 57.79
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "78c3ce1c-3c03-4090-be20-7772eadd3fc1",
+        "price": 21.01
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b8079ba5-627b-4472-b50c-d50bf7da9a74",
+        "price": 34.95
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "4dcd674a-3393-4df1-a9a4-8fa45751282b",
+        "price": 44.43
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "163319f5-c525-47fa-812d-c8f826a05e5c",
+        "price": 66.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7aebcdf9-6a3e-4c59-b345-186e35df64e9",
+        "price": 59.46
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "74c32db5-cb30-44d5-8c46-2c4f01e45755",
+        "price": 29.92
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "26ede999-3176-4473-b40b-3aacd3c14c7a",
+        "price": 30.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "25a09cf7-57ca-4968-ae95-32fe2a48934a",
+        "price": 90.8
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "9a2a69fd-5834-4859-855d-4de68d2c6a13",
+        "price": 50.73
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7533e896-adc2-481e-8cb8-febbd716a897",
+        "price": 78.3
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "ac983912-d656-4d19-89fa-0ccaafaacb67",
+        "price": 47.1
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "aa0fd697-a73d-475b-beb9-0b9f529ef67b",
+        "price": 99.11
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2992082b-55e3-499c-8587-afc4a8734645",
+        "price": 97.96
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "d45918ce-8843-47ff-8e0d-795b9f1f8419",
+        "price": 42.49
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3cc4b5c1-f357-45f4-b02b-6b61eb5cf635",
+        "price": 73.09
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "99c954a4-c62f-45a9-9fb8-c6a14110d2d8",
+        "price": 44.06
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7ff89eb6-4116-4e42-8549-25e10bf663f0",
+        "price": 61.07
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "24afb3a8-c1ed-4b6c-8cb5-0a47d2c6080c",
+        "price": 96.44
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "024e01f6-b3d9-4857-bb36-44edba1ba404",
+        "price": 86.86
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "64d3ce82-378d-42c3-ac3a-f4c90a9a7a45",
+        "price": 79.43
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3fcbdeb5-221f-4fe6-9d2c-886441b8cd0f",
+        "price": 24.03
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7f59392c-5c34-43ce-bbdd-b9d1ebecd0a1",
+        "price": 67.25
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "3ee3b0db-c865-4627-82ee-d1b95993475f",
+        "price": 15.33
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "317d2464-6706-4ca1-8234-9c9476418e76",
+        "price": 13.65
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "cd50bb4b-7482-4900-bf51-b0c59b248736",
+        "price": 53.76
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "b7c13707-6f23-486b-a3f2-dfc0a0b41337",
+        "price": 99.78
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "7970275b-29e4-4319-834c-0031dea24b0c",
+        "price": 97.87
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "2738e734-21fa-4ae3-b1ab-666ccb6c1bf0",
+        "price": 45.2
+      }
+    },
+    {
+      "log_level": "info",
+      "event": "PaymentAccepted",
+      "body": {
+        "token": "c357bdea-4bfe-45f9-8249-fc1a34983402",
+        "price": 73.24
+      }
+    }
+  ]
